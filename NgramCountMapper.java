@@ -14,6 +14,8 @@ private final static IntWritable one = new IntWritable(1);
       throws IOException, InterruptedException {
 
 		String[] line = value.toString().split("\",\"");
+		if( line.length < 4)
+			return;
 		String database = line[0].trim();
 		String user = line[1].trim();
 		String description = line[2].trim();
