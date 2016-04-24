@@ -29,7 +29,13 @@ public class CosineCountReducer
 	    		String user1 = cache.get(i);
 	    		String user2 = cache.get(k);
 	    		
-	    		context.write( new Text(user1 + "<=0=>" + user2 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
+	    		String[] user1Split = user1.split("<==>");
+	    		String[] user2Split = user1.split("<==>");
+	    		
+	    		if( !user1Split[0].trim().equals(user2Split[0].trim()))
+	    		{
+	    			context.write( new Text(user1 + "<=0=>" + user2 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
+	    		}
 	    	}
 	    }
 	}
