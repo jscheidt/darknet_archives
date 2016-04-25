@@ -22,6 +22,7 @@ public class CosineCountReducer
 	    	Double tfIdf = Double.valueOf(split[1].trim());
 	    	cache.add(dbXuser);
 	    	tfXidf.add(tfIdf);
+	    	//context.write(new Text(key + " " + val), new DoubleWritable(0));
 	    }
 	    
 	    for( int i = 0; i < cache.size(); i++){
@@ -30,9 +31,9 @@ public class CosineCountReducer
 	    		String user2 = cache.get(k);
 	    		
 	    		String[] user1Split = user1.split("<==>");
-	    		String[] user2Split = user1.split("<==>");
+	    		String[] user2Split = user2.split("<==>");
 	    		
-	    		if( !user1Split[0].trim().equals(user2Split[0].trim()))
+	    		if( !(user1Split[0].trim().equals(user2Split[0].trim())))
 	    		{
 	    			context.write( new Text(user1 + "<=0=>" + user2 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
 	    		}
