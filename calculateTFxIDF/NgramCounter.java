@@ -32,7 +32,6 @@ public class NgramCounter {
 	    //job1.setNumReduceTasks(numReduceTasks);
 
 	    job1.setMapperClass(NgramCountMapper.class);
-	    job1.setCombinerClass(NgramCountCombiner.class);
 	    job1.setReducerClass(NgramCountReducer.class);
 	    
 	    job1.setMapOutputKeyClass(Text.class);
@@ -140,30 +139,6 @@ public class NgramCounter {
 	    tfIDF.setOutputValueClass(DoubleWritable.class);
 	    
 	    success = tfIDF.waitForCompletion(true);
-	    
-	    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	    /*
-	    @SuppressWarnings("deprecation")
-		Job getSearchIDF = new Job();
-	    getSearchIDF.setJarByClass(NgramCounter.class);
-	    getSearchIDF.setJobName("get only idf with author of search");
-	    
-	    String searchIDFoutput = outputPath + "searchIDF";
-	    
-	    FileInputFormat.addInputPath(getSearchIDF, new Path(IDFoutput));
-	    FileOutputFormat.setOutputPath(getSearchIDF, new Path(searchIDFoutput));
-	    
-	    getSearchIDF.setMapperClass(StripSearchIDFMapper.class);
-	    getSearchIDF.setReducerClass(StripSearchIDFReducer.class);
-	    
-	    getSearchIDF.setMapOutputKeyClass(Text.class);
-	    getSearchIDF.setMapOutputValueClass(Text.class);
-	    getSearchIDF.setOutputKeyClass(Text.class);
-	    getSearchIDF.setOutputValueClass(Text.class);
-	    
-	    getSearchIDF.waitForCompletion(true);
-	    */
-	    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	    
 	    System.exit(success ? 0 : 1);
 	  }
