@@ -1,0 +1,21 @@
+aws<===>user1<===>boop<===>user2	0.124145
+aws<===>user1<===>boop<===>user3	0.324145
+aws<===>user2<===>boop<===>user4	0.224145
+aws2<===>user2<===>boop<===>user5	0.724145
+aws2<===>user2<===>boop<===>user3	0.624145
+aws2<===>user2<===>boop<===>user4	0.6524145
+aws3<===>user2<===>boop<===>user5 	0.5624145
+aws3<===>user3<===>boop<===>user4	0.324145
+aws4<===>user3<===>boop<===>user5	0.924145
+aws4<===>user4<===>boop<===>user5	0.224145
+aws<===>user1<===>aws2<===>user2	0.124145
+aws<===>user1<===>aws2<===>user3	0.324145
+aws<===>user2<===>aws3<===>user4	0.224145
+aws2<===>user2<===>aws4<===>user5	0.724145
+aws2<===>user2<===>aws4<===>user3	0.624145
+aws2<===>user2<===>aws3<===>user4	0.6524145
+aws3<===>user2<===>aws4<===>user5	0.5624145
+aws3<===>user3<===>aws4<===>user4	0.324145
+aws4<===>user3<===>aws5<===>user5	0.924145
+aws4<===>user4<===>aws5<===>user5	0.224145
+
