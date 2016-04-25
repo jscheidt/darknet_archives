@@ -31,7 +31,7 @@ public class SumDotProduct {
 		    job1.setReducerClass(SumDotProductReducer.class);
 		    
 		    job1.setMapOutputKeyClass(Text.class);
-		    job1.setMapOutputValueClass(Text.class);
+		    job1.setMapOutputValueClass(DoubleWritable.class);
 		    job1.setOutputKeyClass(Text.class);
 		    job1.setOutputValueClass(DoubleWritable.class);
 

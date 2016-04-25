@@ -2,6 +2,7 @@ package magnitude;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.DoubleWritable;
+import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
@@ -31,7 +32,7 @@ public class Magnitude {
 		    job1.setReducerClass(MagnitudeReducer.class);
 		    
 		    job1.setMapOutputKeyClass(Text.class);
-		    job1.setMapOutputValueClass(Text.class);
+		    job1.setMapOutputValueClass(DoubleWritable.class);
 		    job1.setOutputKeyClass(Text.class);
 		    job1.setOutputValueClass(DoubleWritable.class);
 
@@ -51,7 +52,7 @@ public class Magnitude {
 		    magnitudeMultiply.setMapperClass(MultiplyMagnitudeMapper.class);
 		    magnitudeMultiply.setReducerClass(MultiplyMagnitudeReducer.class);
 		    
-		    magnitudeMultiply.setMapOutputKeyClass(Text.class);
+		    magnitudeMultiply.setMapOutputKeyClass(IntWritable.class);
 		    magnitudeMultiply.setMapOutputValueClass(Text.class);
 		    magnitudeMultiply.setOutputKeyClass(Text.class);
 		    magnitudeMultiply.setOutputValueClass(DoubleWritable.class);
