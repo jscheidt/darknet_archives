@@ -14,7 +14,8 @@ public class CalcSimilarity {
 		  	//Input should be the result of SumDotProductReducer and MultiplyMagnitudeReducer
 		  
 		    String inputPath = args[0];
-		    String outputPath = args[1];
+		    String inputPath2 = args[1];
+		    String outputPath = args[2];
 		    
 		    String job1OutputPath = outputPath+"calcSim";
 		    
@@ -24,6 +25,7 @@ public class CalcSimilarity {
 		    job1.setJobName("calculate similarity");
 
 	        FileInputFormat.addInputPath(job1, new Path(inputPath));
+	        FileInputFormat.addInputPath(job1, new Path(inputPath2));
 		    FileOutputFormat.setOutputPath(job1, new Path(job1OutputPath));
 		
 

@@ -33,9 +33,19 @@ public class CosineCountReducer
 	    		String[] user1Split = user1.split("<==>");
 	    		String[] user2Split = user2.split("<==>");
 	    		
-	    		if( !(user1Split[0].trim().equals(user2Split[0].trim())))
+	    		String db1 = user1Split[0].trim();
+	    		String db2 = user2Split[0].trim();
+	    		
+	    		if( !(db1.equals(db2)))
 	    		{
-	    			context.write( new Text(user1 + "<=0=>" + user2 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
+	    			if(db1.compareTo(db2)>0)
+	    			{
+	    				context.write( new Text(user1 + "<=0=>" + user2 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
+	    			}
+	    			else
+	    			{
+	    				context.write( new Text(user2 + "<=0=>" + user1 + "<====>"), new DoubleWritable(tfXidf.get(i)*tfXidf.get(k)));
+	    			}
 	    		}
 	    	}
 	    }

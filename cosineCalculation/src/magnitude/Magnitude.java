@@ -57,6 +57,7 @@ public class Magnitude {
 		    magnitudeMultiply.setOutputKeyClass(Text.class);
 		    magnitudeMultiply.setOutputValueClass(DoubleWritable.class);
 		    
+		    success = magnitudeMultiply.waitForCompletion(true);
 		    System.exit(success ? 0 : 1);
 	  }
 }

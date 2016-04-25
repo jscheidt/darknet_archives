@@ -14,7 +14,7 @@ public class CalcSimilarityReducer extends Reducer<Text, Text, Text, DoubleWrita
 		
 		double dot = 0.0;
 		double mag = 0.0;
-		
+		int count = 0;
 		for( Text val : values){
 			
 			if( val.toString().contains("M<00>"))
@@ -25,10 +25,11 @@ public class CalcSimilarityReducer extends Reducer<Text, Text, Text, DoubleWrita
 			else
 			{
 				dot = Double.valueOf(val.toString());
+				count++;
 			}
+			
 		}
-		
-		if( dot != 0.0)
+		if( count == 1)
 			context.write(new Text(key.toString().trim() + "<====>"), new DoubleWritable(dot/mag));
 	}
 }
