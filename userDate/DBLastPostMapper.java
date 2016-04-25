@@ -17,7 +17,7 @@ public class DBLastPostMapper extends Mapper<Object, Text, Text, Text> {
 		String database = keyPart[0].trim();
 //		String user = keyPart[1].trim();
 		String vals =	line[1].trim();
-		System.out.println(database + "and " + vals);
+		// System.out.println(database + "and " + vals);
 		context.write(new Text(database), new Text(vals));
 		}
 	

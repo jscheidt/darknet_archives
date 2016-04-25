@@ -16,31 +16,31 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 public class Main {
 	
-	private static String OUTPUT_PATH = "/darknet/DBUserDate";
 	
 	@SuppressWarnings("deprecation")
-	public static void main(String[] args) throws Exception{
+	public static void main(String[] args) throws Exception {
+
+		String inputPath = args[0];
+		String outputPath = args[1];
 		
-		Path DBUserDate = new Path(OUTPUT_PATH);
-		
-		//1st mapper get the word count for each word
+		String DBUserDate = outputPath + "/DBUserDate";
+		String DBUserDateGlobal = outputPath + "/DBUserDateGlobal";
+
 		Configuration conf = new Configuration();
-		@SuppressWarnings("deprecation")
 		Job job = new Job(conf, "DBUserDate");
-		
+
 		job.setMapOutputValueClass(IntWritable.class);
 		job.setOutputKeyClass(Text.class);
 		job.setOutputValueClass(Text.class);
-		
+
 		job.setMapperClass(DBUserDateMapper.class);
 		job.setReducerClass(DBUserDateReducer.class);
-		
-		
+
 		job.setInputFormatClass(TextInputFormat.class);
 		job.setOutputFormatClass(TextOutputFormat.class);
-		
-		FileInputFormat.addInputPath(job, new Path(args[0]));
-		FileOutputFormat.setOutputPath(job, DBUserDate);	
+
+		FileInputFormat.addInputPath(job, new Path(inputPath));
+		FileOutputFormat.setOutputPath(job, new Path(DBUserDate));	
 		
 		job.waitForCompletion(true);
 		
@@ -56,8 +56,8 @@ public class Main {
 		job1.setInputFormatClass(TextInputFormat.class);
 		job1.setOutputFormatClass(TextOutputFormat.class);
 		
-		FileInputFormat.addInputPath(job1, DBUserDate);
-		FileOutputFormat.setOutputPath(job1, new Path(args[1]));	
+		FileInputFormat.addInputPath(job1, new Path(DBUserDate));
+		FileOutputFormat.setOutputPath(job1, new Path(DBUserDateGlobal));	
 		
 		job1.waitForCompletion(true);
 	
