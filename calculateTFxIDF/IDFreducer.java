@@ -16,7 +16,7 @@ public class IDFreducer extends Reducer<Text, Text, Text, DoubleWritable>{
 		throws IOException, InterruptedException{
 		
 		HashMap<String, Integer> authors = new HashMap<String, Integer>();
-		authors.put("search", 1);
+		//authors.put("search", 1);
 		
 		double littleN = 0;
 		for (Text val : values) {
