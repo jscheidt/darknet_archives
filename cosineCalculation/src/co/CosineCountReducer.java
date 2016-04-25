@@ -30,7 +30,7 @@ public class CosineCountReducer
 	    		String user2 = cache.get(k);
 	    		
 	    		String[] user1Split = user1.split("<==>");
-	    		String[] user2Split = user1.split("<==>");
+	    		String[] user2Split = user2.split("<==>");
 	    		
 	    		if( !user1Split[0].trim().equals(user2Split[0].trim()))
 	    		{
