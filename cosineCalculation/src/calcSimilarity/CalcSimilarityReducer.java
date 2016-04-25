@@ -28,6 +28,7 @@ public class CalcSimilarityReducer extends Reducer<Text, Text, Text, DoubleWrita
 			}
 		}
 		
-		context.write(new Text(key.toString().trim() + "<====>"), new DoubleWritable(dot/mag));
+		if( dot != 0.0)
+			context.write(new Text(key.toString().trim() + "<====>"), new DoubleWritable(dot/mag));
 	}
 }
