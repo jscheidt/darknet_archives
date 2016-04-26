@@ -20,9 +20,12 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+<<<<<<< HEAD
 //Takes as input a list of cosine similarities, ex. market1<===>user1<===>market2<====>user2    0.235235
 //returns a list of the top 10000 similar matches
 
+=======
+>>>>>>> 1114025445ddd3aa431eda341ee5f6930505dd03
 public class TopMatches {
 
   public static class CosineMapper extends Mapper<Object, Text, Text, Text>{

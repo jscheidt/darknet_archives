@@ -18,9 +18,12 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+<<<<<<< HEAD
 //Takes as input a list of cosine similarities, ex. market1<===>user1<===>market2<====>user2    0.235235
 //Takes average of all users from one market against all users from another market to find average similarity between markets
 
+=======
+>>>>>>> 1114025445ddd3aa431eda341ee5f6930505dd03
 public class MarketSimilarity {
 
   public static class CosineMapper extends Mapper<Object, Text, Text, Text>{
