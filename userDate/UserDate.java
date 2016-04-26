@@ -23,6 +23,7 @@ public class UserDate {
 		String DBUserDate = outputPath + "UserMinMax";
 		String DBUserDateGlobal = outputPath + "DatabaseMinMax";
 		String DBUserDateMerged = outputPath + "MinMaxMerged";
+		String UserActivity = outputPath + "UserActivity";
 
 //		Configuration conf = new Configuration();
 		Job job = new Job();
@@ -82,6 +83,25 @@ public class UserDate {
 		FileOutputFormat.setOutputPath(job2, new Path(DBUserDateMerged));	
 		
 		job2.waitForCompletion(true);
+		
+		Job job3 = new Job();
+		job3.setJarByClass(UserDate.class);
+		job3.setJobName("UserActivity");
+		
+		job3.setOutputKeyClass(Text.class);
+		job3.setOutputValueClass(Text.class);
+		
+		job3.setMapperClass(CalcUserActivityMapper.class);
+		job3.setReducerClass(CalcUserActivityReducer.class);
+		
+		
+		job3.setInputFormatClass(TextInputFormat.class);
+		job3.setOutputFormatClass(TextOutputFormat.class);
+		
+		FileInputFormat.addInputPath(job3, new Path(DBUserDateMerged));
+		FileOutputFormat.setOutputPath(job3, new Path(UserActivity));	
+		
+		job3.waitForCompletion(true);
 	
 	}
 
