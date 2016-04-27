@@ -23,10 +23,13 @@ public class MarketSimilarity {
   public static class CosineMapper extends Mapper<Object, Text, Text, Text>{
 
     public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
-	String [] cosineSplit = value.toString().split("\\t");
-	String [] marketSplit = cosineSplit[0].split("<===>");
+	String [] tabSplit = value.toString().split("\\t");
+	String [] cosineSplit = tabSplit[1].split("<====>");
+	String [] marketSplit = cosineSplit[1].split("<=0=>");
+	String [] market1Split = marketSplit[0].split("<==>");
+	String [] market2Split = marketSplit[1].split("<==>");
 	//market1<===>market2
-	context.write(new Text(marketSplit[0] + "<===>" + marketSplit[2]), new Text(cosineSplit[1]));
+	context.write(new Text(market1Split[0].replace("\"", "") + "<===>" + market2Split[0].replace("\"", "")), new Text(cosineSplit[0]));
     }
   }
 
@@ -35,8 +38,7 @@ public class MarketSimilarity {
 	double total = 0.0;
 	double count = 0.0;
 	for (Text v: values) {
-		String [] cosineSplit = v.toString().split("\\t");
-		total += Double.parseDouble(cosineSplit[1]);
+		total += Double.parseDouble(v.toString());
 		count += 1.0;
 	}
 	double avg = total / count;

@@ -3,11 +3,12 @@ heads = Array.new
 not_heads = Array.new
 
 output = File.open('chains', "w+")
-input = File.open('sampleData', "r")
+input = File.open('top', "r")
 
 input.readlines.each do |line|
-	cosineSplit = line.split("<====>")
-	userSplit = cosineSplit[0].split("<=0=>")
+	tabSplit = line.split("\t")
+	cosineSplit = tabSplit[1].split("<====>")
+	userSplit = cosineSplit[1].split("<=0=>")
 	user1 = userSplit[0].gsub(/"/, '').strip
 	user2 = userSplit[1].gsub(/"/, '').strip
 

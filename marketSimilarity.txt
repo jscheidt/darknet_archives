@@ -1,0 +1,98 @@
+Agora<===>Abraxas	0.4947548876473981
+Alpaca<===>Abraxas	0.4501969722596364
+Alpaca<===>Agora	0.4008310380319875
+Alphabay<===>Abraxas	0.5670627635938362
+Alphabay<===>Agora	0.45371285908073244
+Alphabay<===>Alpaca	0.4611437608165814
+Andromeda<===>Abraxas	0.5515383117006323
+Andromeda<===>Agora	0.5129675677399039
+Andromeda<===>Alpaca	0.8374833333494806
+Andromeda<===>Alphabay	0.5279704689095762
+Cloud Nine<===>1776	0.5891688707691862
+Cloud Nine<===>Abraxas	0.5048600320347426
+Cloud Nine<===>Agora	0.45164283625416124
+Cloud Nine<===>Alpaca	0.5482822990252249
+Cloud Nine<===>Alphabay	0.4734846323994564
+Cloud Nine<===>Andromeda	0.9963205995560018
+Evolution<===>1776	0.40431005401724573
+Evolution<===>Abraxas	0.45241994205186636
+Evolution<===>Agora	0.47075745652570006
+Evolution<===>Alpaca	0.5299531738378918
+Evolution<===>Alphabay	0.4610396520146741
+Evolution<===>Andromeda	0.5569855270185075
+Evolution<===>Cloud Nine	0.5783746682840132
+Middle Earth<===>1776	0.4788207951053533
+Middle Earth<===>Abraxas	0.8062661657963146
+Middle Earth<===>Agora	0.4821127280956645
+Middle Earth<===>Alpaca	0.4750249884429591
+Middle Earth<===>Alphabay	0.6028475470702255
+Middle Earth<===>Andromeda	0.49122335977468795
+Middle Earth<===>Cloud Nine	0.6899595876199212
+Middle Earth<===>Evolution	0.5771597005469551
+Nucleus<===>Abraxas	0.610743571523155
+Nucleus<===>Agora	0.5344000633121057
+Nucleus<===>Alpaca	0.46871976996005016
+Nucleus<===>Alphabay	0.5221536057005753
+Nucleus<===>Andromeda	0.5659213359465212
+Nucleus<===>Cloud Nine	0.5234731910174814
+Nucleus<===>Evolution	0.5073899059143746
+Nucleus<===>Middle Earth	0.6666097250172542
+Onion Market<===>Agora	0.4987382978958025
+Onion Market<===>Alpaca	0.43348041357128764
+Onion Market<===>Alphabay	0.5051682664228176
+Onion Market<===>Andromeda	0.5137002139883506
+Onion Market<===>Cloud Nine	0.6804090064760464
+Onion Market<===>Evolution	0.5503752248614299
+Onion Market<===>Middle Earth	0.6084693257879208
+Onion Market<===>Nucleus	0.4896141007323327
+Outlaw<===>Abraxas	0.6423895714734076
+Outlaw<===>Agora	0.5174361835947328
+Outlaw<===>Alpaca	0.43172142848691897
+Outlaw<===>Alphabay	0.5695457536397678
+Outlaw<===>Cloud Nine	0.42615749620479787
+Outlaw<===>Evolution	0.45395373444235826
+Outlaw<===>Middle Earth	0.6692686169396422
+Outlaw<===>Nucleus	0.7697204398530225
+Outlaw<===>Onion Market	0.454685645756421
+Pandora<===>Abraxas	0.3646525631750317
+Pandora<===>Agora	0.6239092682995232
+Pandora<===>Alpaca	0.36861003720434316
+Pandora<===>Alphabay	0.4453390113090176
+Pandora<===>Andromeda	0.6945349644429252
+Pandora<===>Cloud Nine	0.625703135221468
+Pandora<===>Evolution	0.5445519532056321
+Pandora<===>Middle Earth	0.4837821764835141
+Pandora<===>Nucleus	0.5155687055121699
+Pandora<===>Onion Market	0.7325900534087633
+Pandora<===>Outlaw	0.6943788448620182
+Silk Road 2<===>Abraxas	0.4624395137842121
+Silk Road 2<===>Agora	0.5129946679321203
+Silk Road 2<===>Alpaca	0.5501264298258193
+Silk Road 2<===>Alphabay	0.45103861985688914
+Silk Road 2<===>Andromeda	0.47627604957568703
+Silk Road 2<===>Cloud Nine	0.6770983798362366
+Silk Road 2<===>Evolution	0.5526847976178312
+Silk Road 2<===>Middle Earth	0.585453419078581
+Silk Road 2<===>Nucleus	0.5112330728793837
+Silk Road 2<===>Onion Market	0.6298910877980817
+Silk Road 2<===>Pandora	0.6275235865666076
+Silkkitie<===>Abraxas	0.7365475166585359
+Silkkitie<===>Agora	0.5778872065799963
+Silkkitie<===>Alphabay	0.524918044769605
+Silkkitie<===>Cloud Nine	0.38447309594156404
+Silkkitie<===>Evolution	0.4210089898276168
+Silkkitie<===>Middle Earth	0.513571605733664
+Silkkitie<===>Nucleus	0.5715819878566969
+Silkkitie<===>Onion Market	0.4181321115183729
+Silkkitie<===>Outlaw	0.8798335710645552
+Silkkitie<===>Pandora	0.3741471889103584
+The Pirate Market<===>Abraxas	0.674772187721944
+The Pirate Market<===>Agora	0.3695433008252095
+The Pirate Market<===>Alpaca	0.6630406310890601
+The Pirate Market<===>Alphabay	0.43005159012068606
+The Pirate Market<===>Andromeda	0.659419053473093
+The Pirate Market<===>Cloud Nine	0.9226269055446384
+The Pirate Market<===>Evolution	0.5813666133829296
+The Pirate Market<===>Middle Earth	0.5695498255256061
+The Pirate Market<===>Nucleus	0.4394832577699384
+The Pirate Market<===>Outlaw	0.35586904781576095

@@ -25,7 +25,7 @@ public class TopMatches {
   public static class CosineMapper extends Mapper<Object, Text, Text, Text>{
 
     public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
-	context.write(new Text(""), new Text(value));
+	context.write(new Text("key"), new Text(value.toString().split("\\t")[1]));
     }
   }
 
@@ -34,24 +34,24 @@ public class TopMatches {
     public void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
 	for (Text v: values) {
 		String [] cosineSplit = v.toString().split("\\t");
-		double cos = double.parseDouble(cosineSplit[1]);
-		Sring match = cosineSplit[0];
-		total += Double.parseDouble(cosineSplit[1]);
+		double cos = Double.parseDouble(cosineSplit[1]);
+		String match = cosineSplit[0];
 		topTenThousand.put(match, cos);
+		//context.write(key, v);
 	}
 	
-	context.write(key, new Text(Double.toString(avg)));
-    }
+	//context.write(key, new Text(Double.toString(total/c)));
 
-    Map<String, Double> sorted = sortByValues(topTen);
-    int check = sorted.size() < 10000 ? sorted.size() : 10000;
-    Iterator it = sorted.entrySet().iterator();
-    int count = 0;
-    while (it.hasNext() && count < 10000) {
-        Map.Entry pair = (Map.Entry)it.next();
-        double d = (double) pair.getValue();
-        context.write(new Text(), new Text(pair.getKey() + "\\t" + Double.toString(d)));
-        count++;
+	Map<String, Double> sorted = sortByValues(topTenThousand);
+	int check = sorted.size() < 10000 ? sorted.size() : 10000;
+	Iterator it = sorted.entrySet().iterator();
+	int count = 0;
+	while (it.hasNext() && count < 10000) {
+		Map.Entry pair = (Map.Entry)it.next();
+		double d = (double) pair.getValue();
+		context.write(new Text(), new Text(pair.getKey() + "\\t" + Double.toString(d)));
+		count++;
+	}
     }
   }
 
