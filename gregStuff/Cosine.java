@@ -18,6 +18,11 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
+<<<<<<< HEAD
+//IGNORE THIS FILE, IT WAS DESIGNED FOR A DIFFERENT INPUT FORMAT FOR ATTRIBUTE VECTORS
+
+=======
+>>>>>>> 1114025445ddd3aa431eda341ee5f6930505dd03
 public class Cosine {
 
   public static class CosineMapper extends Mapper<Object, Text, Text, Text>{
