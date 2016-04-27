@@ -32,12 +32,20 @@ public class MultiplyMagnitudeReducer extends Reducer<IntWritable, Text, Text, D
 	    		
 	    		String[] user1Split = user1.split("<==>");
 	    		String[] user2Split = user2.split("<==>");
+	    		String db1 = user1Split[0].trim();
+	    		String db2 = user2Split[0].trim();
 	    		
-	    		if( !user1Split[0].trim().equals(user2Split[0].trim()))
+	    		if( !(db1.equals(db2)))
 	    		{
 	    			Double product = magnitude.get(i)*magnitude.get(k);
-	    			context.write( new Text(user1 + "<=0=>" + user2 + "<====>M<00>"), new DoubleWritable(product));
-	    			context.write( new Text(user2 + "<=0=>" + user1 + "<====>M<00>"), new DoubleWritable(product));
+	    			if(db1.compareTo(db2)>0)
+	    			{
+	    				context.write( new Text(user1 + "<=0=>" + user2 + "<====>M<00>"), new DoubleWritable(product));
+	    			}
+	    			else
+	    			{
+	    				context.write( new Text(user2 + "<=0=>" + user1 + "<====>M<00>"), new DoubleWritable(product));
+	    			}
 	    		}
 	    	}
 	    }

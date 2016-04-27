@@ -1,4 +1,4 @@
-package usercount;
+package trimdata;
 
 import java.io.IOException;
 
