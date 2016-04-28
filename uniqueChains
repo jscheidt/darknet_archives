@@ -1,5 +1,5 @@
 {"Evolution<==>Transcendental<=0=>Cloud Nine<==>Transcendental"=>"0.9975483131434923", "Onion Market<==>drshrooms<=0=>Evolution<==>Transcendental"=>"0.40509602961211344", "Onion Market<==>drshrooms<=0=>Middle Earth<==>drshrooms"=>"0.6084693257879208", "Silkkitie<==>DRshrooms<=0=>Middle Earth<==>drshrooms"=>"0.6672303467416678"}
-{"Evolution<==>Perception<=0=>Alphabay<==>Perception"=>"0.9968257447456476", "Evolution<==>Transcendental<=0=>Cloud Nine<==>NewTime"=>"0.37835139177471205"}
+{"Evolution<==>Perception<=0=>Alphabay<==>Perception"=>"0.9968257447456476"}
 {"Evolution<==>xRedBullx<=0=>Cloud Nine<==>xRedBullx"=>"0.9966218233826878", "Silk Road 2<==>xRedBullx<=0=>Evolution<==>xRedBullx"=>"0.8591507134089128"}
 {"Cloud Nine<==>theblossom<=0=>Andromeda<==>theblossom"=>"0.9963205995560018", "Andromeda<==>theblossom<=0=>Alpaca<==>theblossom"=>"0.7046367894148242", "Outlaw<==>spinach<=0=>Cloud Nine<==>theblossom"=>"0.35368268097034494", "Outlaw<==>spinach<=0=>Agora<==>tantrikom3"=>"0.37214489683538954", "Nucleus<==>tantrikom<=0=>Agora<==>tantrikom3"=>"0.8012594901805706"}
 {"Silkkitie<==>killindagame66<=0=>Outlaw<==>killindagame66"=>"0.9943173122815956", "Outlaw<==>killindagame66<=0=>Agora<==>killindagame66"=>"0.4097852054616636"}
@@ -8,187 +8,201 @@
 {"Middle Earth<==>weedshop<=0=>Alphabay<==>WeedShop"=>"0.9888419510619475"}
 {"Middle Earth<==>saint-nic<=0=>Evolution<==>Saint-Nic"=>"0.984929460196683", "Silk Road 2<==>Saint Nic<=0=>Evolution<==>Saint-Nic"=>"0.8617640272350879"}
 {"Middle Earth<==>dopamine<=0=>Abraxas<==>dopamine"=>"0.9807469290728734", "Silk Road 2<==>allisone<=0=>Abraxas<==>dopamine"=>"0.4211343875848754", "Silk Road 2<==>allisone<=0=>Agora<==>salamalejkum"=>"0.43481610469163284", "Alphabay<==>VanVogt<=0=>Agora<==>salamalejkum"=>"0.5018520979943548", "Cloud Nine<==>scaptain<=0=>Agora<==>salamalejkum"=>"0.48020165925217395", "Nucleus<==>PharmaPhil<=0=>Cloud Nine<==>scaptain"=>"0.9254121908709774", "Evolution<==>Fentastic<=0=>Cloud Nine<==>scaptain"=>"0.4570085872280896"}
-{"Outlaw<==>mdmaEU<=0=>Middle Earth<==>mdmaeu"=>"0.9770507821455654", "Middle Earth<==>mdmaeu<=0=>Agora<==>AmicoFriz"=>"0.6681467364120655", "The Pirate Market<==>mc222<=0=>Agora<==>AmicoFriz"=>"0.3695433008252095", "Middle Earth<==>dopamine<=0=>Evolution<==>EvolTwin"=>"0.35072504544271976", "Evolution<==>Fentastic<=0=>Abraxas<==>Dr_Seuss"=>"0.3954922746635181", "Evolution<==>Fentastic<=0=>Alphabay<==>FatTuesday_13"=>"0.3843316611753615", "Cloud Nine<==>white label<=0=>Alphabay<==>FatTuesday_13"=>"0.35612946850892735"}
-{"Evolution<==>GanjaMerchant<=0=>Cloud Nine<==>GanjaMerchant"=>"0.9734422454823455", "Cloud Nine<==>scaptain<=0=>Agora<==>PharmaPhil"=>"0.7209871850684466", "The Pirate Market<==>Silkk<=0=>Evolution<==>EvolTwin"=>"0.5528310146714658", "Cloud Nine<==>scaptain<=0=>Alphabay<==>th3com3dian"=>"0.43131280352289886"}
-{"Nucleus<==>Toyota<=0=>Middle Earth<==>toyota"=>"0.9734225691222291", "Middle Earth<==>toyota<=0=>Evolution<==>sexyTime"=>"0.6751289129792831", "Evolution<==>GanjaMerchant<=0=>Agora<==>GanjaMerchant"=>"0.475662989745111"}
-{"Middle Earth<==>oase<=0=>Abraxas<==>Oase1"=>"0.968535566033408", "Agora<==>Dr_Seuss<=0=>Abraxas<==>Dr_Seuss"=>"0.5240437506692379"}
+{"Outlaw<==>mdmaEU<=0=>Middle Earth<==>mdmaeu"=>"0.9770507821455654", "Middle Earth<==>mdmaeu<=0=>Agora<==>AmicoFriz"=>"0.6681467364120655", "The Pirate Market<==>mc222<=0=>Agora<==>AmicoFriz"=>"0.3695433008252095"}
+{"Evolution<==>GanjaMerchant<=0=>Cloud Nine<==>GanjaMerchant"=>"0.9734422454823455", "Cloud Nine<==>GanjaMerchant<=0=>Agora<==>GanjaMerchant"=>"0.4943343679962965"}
+{"Nucleus<==>Toyota<=0=>Middle Earth<==>toyota"=>"0.9734225691222291", "Middle Earth<==>toyota<=0=>Evolution<==>sexyTime"=>"0.6751289129792831"}
+{"Middle Earth<==>oase<=0=>Abraxas<==>Oase1"=>"0.968535566033408"}
 {"Middle Earth<==>midpee911222<=0=>Abraxas<==>raxpee911"=>"0.9641606032040068", "Middle Earth<==>midpee911222<=0=>Evolution<==>evopee911"=>"0.9509704559999932", "Evolution<==>evopee911<=0=>Alpaca<==>palpee911"=>"0.6711321011254612", "Andromeda<==>andpee911<=0=>Alpaca<==>palpee911"=>"0.9006847868288957", "Evolution<==>evopee911<=0=>Agora<==>aaapee911"=>"0.5401666821262424"}
 {"Middle Earth<==>dutchmasters<=0=>Evolution<==>DutchMasters"=>"0.9639558106664118"}
-{"Middle Earth<==>humboldtsfinest<=0=>Abraxas<==>HumboldtsFinest"=>"0.9632080551362382", "Agora<==>pureanduncut<=0=>Abraxas<==>Dr_Seuss"=>"0.3706889943753933"}
-{"Pandora<==>CanadianExpress<=0=>Evolution<==>CanadianExpress"=>"0.9579455686889684", "Evolution<==>CanadianExpress<=0=>Cloud Nine<==>CanadianExpress"=>"0.530231939865445", "Cloud Nine<==>scaptain<=0=>Agora<==>Fentanyl"=>"0.4182714776181061"}
-{"Evolution<==>digitalpunk<=0=>Alphabay<==>digitalpunk"=>"0.9560541148795133", "Alphabay<==>th3com3dian<=0=>Agora<==>hadherall"=>"0.6650029455454483"}
-{"Andromeda<==>blackhand<=0=>Abraxas<==>blackhand"=>"0.955234642614749", "Evolution<==>blackhand<=0=>Andromeda<==>blackhand"=>"0.9519417733945014", "Evolution<==>blackhand<=0=>Agora<==>Optumis"=>"0.4032894539522467", "Silk Road 2<==>echo<=0=>Evolution<==>blackhand"=>"0.3976053628578", "Nucleus<==>bluerave<=0=>Evolution<==>blackhand"=>"0.3770315674719965", "Nucleus<==>Toyota<=0=>Middle Earth<==>merckkgaa"=>"0.3943945306815298", "Evolution<==>blackhand<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3634207615496838", "Cloud Nine<==>passman<=0=>Alphabay<==>AGENT3500ZERO"=>"0.4208538589851394", "Pandora<==>safetybets<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3573747239272801"}
-{"Middle Earth<==>dutchmen1<=0=>Alphabay<==>Dutchmen"=>"0.9538444402140313", "Middle Earth<==>merckkgaa<=0=>Abraxas<==>DutchVendor"=>"0.5569470829397549", "Evolution<==>theaddyman<=0=>Abraxas<==>blackhand"=>"0.4840703396355976", "Evolution<==>theaddyman<=0=>Cloud Nine<==>B3kZo"=>"0.4849590565085105", "Silk Road 2<==>cocacola007<=0=>Alphabay<==>AGENT3500ZERO"=>"0.4651641622640023", "Alphabay<==>AGENT3500ZERO<=0=>Agora<==>fake"=>"0.4212975767185211", "Nucleus<==>CocoMarley<=0=>Middle Earth<==>merckkgaa"=>"0.4111820189831472", "Andromeda<==>StealthHacks<=0=>Abraxas<==>blackhand"=>"0.3579173211942826", "Pandora<==>therealstarlight<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3569704195521877"}
-{"Evolution<==>FatSam<=0=>Cloud Nine<==>FatSam"=>"0.9493513318260147", "Silk Road 2<==>FatSam<=0=>Cloud Nine<==>FatSam"=>"0.6266338965265992", "Silk Road 2<==>cocacola007<=0=>Alphabay<==>BrainPower"=>"0.4230752250921318", "Alphabay<==>AGENT3500ZERO<=0=>Abraxas<==>Hackyboy"=>"0.4838919185029234", "Cloud Nine<==>white label<=0=>Agora<==>Chems_Usa"=>"0.41306237567010046", "Silk Road 2<==>cocacola007<=0=>Nucleus<==>mafiadomino"=>"0.3757809602218715", "Pandora<==>saguaro<=0=>Abraxas<==>Hackyboy"=>"0.3710139911047648"}
-{"Nucleus<==>ThreeKings<=0=>Evolution<==>ThreeKings"=>"0.9492902982000523", "Silk Road 2<==>Overdos3d<=0=>Evolution<==>ThreeKings"=>"0.679857583716813", "Silk Road 2<==>Overdos3d<=0=>Alphabay<==>bigbux"=>"0.6475318248401211", "Evolution<==>ThreeKings<=0=>Alpaca<==>eliterx"=>"0.6221592256644534", "Nucleus<==>ThreeKings<=0=>Agora<==>ThreeKings"=>"0.579925624533326", "Pandora<==>BodyAid<=0=>Alphabay<==>bigbux"=>"0.4711271379650523", "Pandora<==>BodyAid<=0=>Onion Market<==>bodyaid"=>"0.7737041343514061", "Alphabay<==>AGENT3500ZERO<=0=>Abraxas<==>PayPalTransfer"=>"0.4512015087061023", "Cloud Nine<==>Hackyboy<=0=>Abraxas<==>Hackyboy"=>"0.5768870448535152", "Middle Earth<==>spartanlabsoz<=0=>Alphabay<==>bigbux"=>"0.4291479586164358"}
-{"Onion Market<==>mrzheng<=0=>Cloud Nine<==>drzheng"=>"0.9491466852123164", "Evolution<==>drzheng<=0=>Cloud Nine<==>drzheng"=>"0.872889325019111", "Pandora<==>mrzheng<=0=>Evolution<==>drzheng"=>"0.778603755251988", "Silk Road 2<==>starlight<=0=>Pandora<==>therealstarlight"=>"0.6930544098633316", "Cloud Nine<==>Hackyboy<=0=>Alphabay<==>LeBaron"=>"0.6805754090957018", "Alphabay<==>bigbux<=0=>Agora<==>bodyinaction"=>"0.5458115613150986", "Pandora<==>safetybets<=0=>Nucleus<==>be.ok"=>"0.46503275978626074", "The Pirate Market<==>QronikzKidd<=0=>Nucleus<==>be.ok"=>"0.4154852716363724", "Alphabay<==>bigbux<=0=>Abraxas<==>Overdos3d"=>"0.4060741325919365", "Alpaca<==>Steacensen<=0=>Abraxas<==>Overdos3d"=>"0.41118284173459824"}
-{"Onion Market<==>afrikansun<=0=>Evolution<==>AfriKanSun"=>"0.9458206329532217", "Silk Road 2<==>spartanlabsoz<=0=>Evolution<==>ThreeKings"=>"0.4659125112670163", "Silk Road 2<==>cocacola007<=0=>Agora<==>smart666tiger"=>"0.3861925609250359", "Silk Road 2<==>cocacola007<=0=>Alphabay<==>Takri"=>"0.38122524280763886", "Cloud Nine<==>Seraphim_1337<=0=>Alphabay<==>LeBaron"=>"0.8266977276315943", "Evolution<==>blackhand<=0=>Abraxas<==>optiman"=>"0.3582186428785466", "Nucleus<==>Overdos3d<=0=>Abraxas<==>Overdos3d"=>"0.48638974911618366"}
-{"Evolution<==>ozconnection<=0=>Alphabay<==>ozconnection"=>"0.9435396560674136", "Pandora<==>ozconnection<=0=>Alphabay<==>ozconnection"=>"0.4678675707626493", "Cloud Nine<==>CCandPPStore<=0=>Alphabay<==>AGENT3500ZERO"=>"0.35731838241080244", "Cloud Nine<==>CCandPPStore<=0=>Agora<==>CowBe11s"=>"0.3597849436306782", "Silk Road 2<==>Steroid-Depot<=0=>Alphabay<==>bigbux"=>"0.35162585178828343", "Silk Road 2<==>allisone<=0=>Nucleus<==>Luvly"=>"0.35363701755449467"}
+{"Middle Earth<==>humboldtsfinest<=0=>Abraxas<==>HumboldtsFinest"=>"0.9632080551362382"}
+{"Pandora<==>CanadianExpress<=0=>Evolution<==>CanadianExpress"=>"0.9579455686889684", "Evolution<==>CanadianExpress<=0=>Cloud Nine<==>CanadianExpress"=>"0.530231939865445"}
+{"Evolution<==>digitalpunk<=0=>Alphabay<==>digitalpunk"=>"0.9560541148795133"}
+{"Andromeda<==>blackhand<=0=>Abraxas<==>blackhand"=>"0.955234642614749", "Evolution<==>blackhand<=0=>Andromeda<==>blackhand"=>"0.9519417733945014", "Evolution<==>blackhand<=0=>Agora<==>Optumis"=>"0.4032894539522467", "Silk Road 2<==>echo<=0=>Evolution<==>blackhand"=>"0.3976053628578", "Nucleus<==>bluerave<=0=>Evolution<==>blackhand"=>"0.3770315674719965", "Evolution<==>blackhand<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3634207615496838", "Cloud Nine<==>passman<=0=>Alphabay<==>AGENT3500ZERO"=>"0.4208538589851394", "Pandora<==>safetybets<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3573747239272801"}
+{"Middle Earth<==>dutchmen1<=0=>Alphabay<==>Dutchmen"=>"0.9538444402140313"}
+{"Evolution<==>FatSam<=0=>Cloud Nine<==>FatSam"=>"0.9493513318260147", "Silk Road 2<==>FatSam<=0=>Cloud Nine<==>FatSam"=>"0.6266338965265992"}
+{"Nucleus<==>ThreeKings<=0=>Evolution<==>ThreeKings"=>"0.9492902982000523", "Silk Road 2<==>Overdos3d<=0=>Evolution<==>ThreeKings"=>"0.679857583716813", "Silk Road 2<==>Overdos3d<=0=>Alphabay<==>bigbux"=>"0.6475318248401211", "Evolution<==>ThreeKings<=0=>Alpaca<==>eliterx"=>"0.6221592256644534", "Nucleus<==>ThreeKings<=0=>Agora<==>ThreeKings"=>"0.579925624533326", "Pandora<==>BodyAid<=0=>Alphabay<==>bigbux"=>"0.4711271379650523", "Pandora<==>BodyAid<=0=>Onion Market<==>bodyaid"=>"0.7737041343514061", "Middle Earth<==>spartanlabsoz<=0=>Alphabay<==>bigbux"=>"0.4291479586164358", "Alphabay<==>bigbux<=0=>Abraxas<==>Overdos3d"=>"0.4060741325919365"}
+{"Onion Market<==>mrzheng<=0=>Cloud Nine<==>drzheng"=>"0.9491466852123164", "Evolution<==>drzheng<=0=>Cloud Nine<==>drzheng"=>"0.872889325019111", "Pandora<==>mrzheng<=0=>Evolution<==>drzheng"=>"0.778603755251988"}
+{"Onion Market<==>afrikansun<=0=>Evolution<==>AfriKanSun"=>"0.9458206329532217"}
+{"Evolution<==>ozconnection<=0=>Alphabay<==>ozconnection"=>"0.9435396560674136", "Pandora<==>ozconnection<=0=>Alphabay<==>ozconnection"=>"0.4678675707626493"}
 {"Evolution<==>MysteryMake2<=0=>Cloud Nine<==>MysteryMake2"=>"0.9398556764956966"}
-{"Nucleus<==>WhiteAMEX<=0=>Middle Earth<==>whiteamex"=>"0.939307497850126", "Middle Earth<==>spartanlabsoz<=0=>Evolution<==>spartanlabsoz"=>"0.8787569603808069", "Nucleus<==>mafiadomino<=0=>Alphabay<==>dutchsnowflake"=>"0.37823075356871416", "Middle Earth<==>whiteamex<=0=>Abraxas<==>starbuy"=>"0.35252337331605293", "Agora<==>Overdos3d<=0=>Abraxas<==>Overdos3d"=>"0.7451701431610459", "Silk Road 2<==>starbuy<=0=>Abraxas<==>starbuy"=>"0.5117536355546504"}
-{"Alphabay<==>DutchXMDMA<=0=>Abraxas<==>Mr2011"=>"0.9358377011229527", "Evolution<==>elgeneral768<=0=>Alphabay<==>LeBaron"=>"0.9200892712685309", "Nucleus<==>Mr2011<=0=>Abraxas<==>Mr2011"=>"0.863070288263504", "Agora<==>starbuy<=0=>Abraxas<==>starbuy"=>"0.6066714734404621", "The Pirate Market<==>Drugs4you<=0=>Abraxas<==>Mr2011"=>"0.47686735594094404", "Silk Road 2<==>swissweed12<=0=>Abraxas<==>starbuy"=>"0.43744509729995334", "The Pirate Market<==>Drugs4you<=0=>Andromeda<==>magicmushroom"=>"0.38382279160771476"}
-{"Middle Earth<==>aidoneus<=0=>Abraxas<==>Aidoneus"=>"0.9356085707949924", "Nucleus<==>goodie1<=0=>Middle Earth<==>whiteamex"=>"0.9254667655540524", "Nucleus<==>ThreeKings<=0=>Evolution<==>IrvingRosenfeld"=>"0.7813841769578088", "The Pirate Market<==>Aidoneus<=0=>Middle Earth<==>aidoneus"=>"0.7781233953028717", "Alphabay<==>optiman<=0=>Abraxas<==>optiman"=>"0.7446468792000026", "Agora<==>vegas702<=0=>Abraxas<==>starbuy"=>"0.3598338485520132"}
-{"Evolution<==>tesla1212<=0=>Cloud Nine<==>tesla1234"=>"0.935400632170844", "Nucleus<==>labsdirect<=0=>Evolution<==>spartanlabsoz"=>"0.35534461021605485", "Nucleus<==>mafiadomino<=0=>Alphabay<==>fraudexpress"=>"0.3776076632972862"}
-{"Pandora<==>craigman<=0=>Onion Market<==>craigman"=>"0.935249323180107", "Pandora<==>therealstarlight<=0=>Evolution<==>BananaKing"=>"0.68947756749021", "Onion Market<==>craigman<=0=>Agora<==>craigman"=>"0.5593634614579007", "Onion Market<==>craigman<=0=>Alphabay<==>MrxNobody"=>"0.44281107669429215", "Silk Road 2<==>Masakali<=0=>Alphabay<==>MrxNobody"=>"0.42235959765201503", "Silk Road 2<==>swissweed12<=0=>Nucleus<==>Spinifex"=>"0.402103571430918"}
-{"The Pirate Market<==>DarkVendor<=0=>Andromeda<==>DarkVendor"=>"0.9350153153384713", "Evolution<==>DarkVendor<=0=>Andromeda<==>DarkVendor"=>"0.9321473230505996", "The Pirate Market<==>DarkVendor<=0=>Alpaca<==>DarkVendor"=>"0.92680305133652", "Onion Market<==>kkroids1<=0=>Alpaca<==>Steacensen"=>"0.4877355813021371", "Alphabay<==>Progear<=0=>Alpaca<==>Steacensen"=>"0.4359042579453492", "Nucleus<==>pinkdiamond<=0=>Alphabay<==>MrxNobody"=>"0.38960384463157954", "Nucleus<==>pinkdiamond<=0=>Agora<==>StrattonXanax"=>"0.5586344896914495"}
-{"Pandora<==>tomorrowman<=0=>Agora<==>tomorrowman"=>"0.9307796654515403", "Pandora<==>tomorrowman<=0=>Onion Market<==>tomorrowman"=>"0.8065736006577345", "Evolution<==>craigman<=0=>Agora<==>craigman"=>"0.5859387578123277"}
-{"Silk Road 2<==>freegenerics<=0=>Pandora<==>freegenerics"=>"0.9240998126736711", "Silk Road 2<==>Overdos3d<=0=>Evolution<==>Overdos3d"=>"0.8978752861938821", "Pandora<==>tomorrowman<=0=>Onion Market<==>tambourinemans"=>"0.40335617374534943", "Silk Road 2<==>cocacola007<=0=>Alphabay<==>nucleoide"=>"0.36186207180838736"}
-{"Cloud Nine<==>ES Light<=0=>Alphabay<==>ESLight"=>"0.9230878274264636", "Evolution<==>Joe0709<=0=>Alphabay<==>LeBaron"=>"0.9192546109285615"}
-{"The Pirate Market<==>pastperfect<=0=>Cloud Nine<==>pastperfect"=>"0.9226269055446384", "The Pirate Market<==>pastperfect<=0=>Abraxas<==>pastperfect"=>"0.8055548568062637", "Evolution<==>EVERYTHING_CHEAP<=0=>Cloud Nine<==>Hackyboy"=>"0.6699862564966285"}
+{"Nucleus<==>WhiteAMEX<=0=>Middle Earth<==>whiteamex"=>"0.939307497850126", "Middle Earth<==>whiteamex<=0=>Abraxas<==>starbuy"=>"0.35252337331605293", "Agora<==>starbuy<=0=>Abraxas<==>starbuy"=>"0.6066714734404621", "Silk Road 2<==>starbuy<=0=>Agora<==>starbuy"=>"0.5373106176837146"}
+{"Alphabay<==>DutchXMDMA<=0=>Abraxas<==>Mr2011"=>"0.9358377011229527", "Nucleus<==>Mr2011<=0=>Abraxas<==>Mr2011"=>"0.863070288263504", "The Pirate Market<==>Drugs4you<=0=>Abraxas<==>Mr2011"=>"0.47686735594094404", "The Pirate Market<==>Drugs4you<=0=>Andromeda<==>magicmushroom"=>"0.38382279160771476"}
+{"Middle Earth<==>aidoneus<=0=>Abraxas<==>Aidoneus"=>"0.9356085707949924", "The Pirate Market<==>Aidoneus<=0=>Middle Earth<==>aidoneus"=>"0.7781233953028717"}
+{"Evolution<==>tesla1212<=0=>Cloud Nine<==>tesla1234"=>"0.935400632170844"}
+{"Pandora<==>craigman<=0=>Onion Market<==>craigman"=>"0.935249323180107", "Onion Market<==>craigman<=0=>Agora<==>craigman"=>"0.5593634614579007", "Evolution<==>craigman<=0=>Agora<==>craigman"=>"0.5859387578123277", "Onion Market<==>craigman<=0=>Alphabay<==>MrxNobody"=>"0.44281107669429215", "Silk Road 2<==>Masakali<=0=>Alphabay<==>MrxNobody"=>"0.42235959765201503", "Nucleus<==>pinkdiamond<=0=>Alphabay<==>MrxNobody"=>"0.38960384463157954"}
+{"The Pirate Market<==>DarkVendor<=0=>Andromeda<==>DarkVendor"=>"0.9350153153384713", "The Pirate Market<==>DarkVendor<=0=>Evolution<==>DarkVendor"=>"0.9294497365621159", "The Pirate Market<==>DarkVendor<=0=>Alpaca<==>DarkVendor"=>"0.92680305133652"}
+{"Pandora<==>tomorrowman<=0=>Agora<==>tomorrowman"=>"0.9307796654515403", "Pandora<==>tomorrowman<=0=>Onion Market<==>tomorrowman"=>"0.8065736006577345", "Onion Market<==>tomorrowman<=0=>Evolution<==>tomorrowman"=>"0.43203423450500694"}
+{"Silk Road 2<==>freegenerics<=0=>Pandora<==>freegenerics"=>"0.9240998126736711"}
+{"Cloud Nine<==>ES Light<=0=>Alphabay<==>ESLight"=>"0.9230878274264636"}
+{"The Pirate Market<==>pastperfect<=0=>Cloud Nine<==>pastperfect"=>"0.9226269055446384", "The Pirate Market<==>pastperfect<=0=>Abraxas<==>pastperfect"=>"0.8055548568062637"}
+{"Evolution<==>elgeneral768<=0=>Alphabay<==>LeBaron"=>"0.9200892712685309", "Evolution<==>elgeneral768<=0=>Cloud Nine<==>Seraphim_1337"=>"0.8323402278030796", "Evolution<==>elgeneral768<=0=>Abraxas<==>Hackyboy"=>"0.43248424863255447", "Agora<==>fake<=0=>Abraxas<==>Hackyboy"=>"0.39298454911211617", "Pandora<==>saguaro<=0=>Abraxas<==>Hackyboy"=>"0.3710139911047648", "Silk Road 2<==>cocacola007<=0=>Abraxas<==>Hackyboy"=>"0.3537468794160632", "Silk Road 2<==>cocacola007<=0=>Nucleus<==>mafiadomino"=>"0.3757809602218715"}
 {"Middle Earth<==>kaesefritz_ger<=0=>Evolution<==>Kaesefritz_GER"=>"0.9154209619739171"}
-{"Nucleus<==>ChinaChem<=0=>Abraxas<==>ChinaChem"=>"0.9130070067703381", "Nucleus<==>mafiadomino<=0=>Evolution<==>johnspaypalstore"=>"0.6278348239639516", "Nucleus<==>Spinifex<=0=>Agora<==>Spinifex"=>"0.5346631202599016", "Evolution<==>johnspaypalstore<=0=>Alphabay<==>gandalf"=>"0.5083271684288868", "Cloud Nine<==>ChinaChem<=0=>Abraxas<==>ChinaChem"=>"0.4179483051249039"}
-{"Pandora<==>justincase<=0=>Onion Market<==>justincase"=>"0.9122859098763413", "Onion Market<==>tambourinemans<=0=>Evolution<==>tomorrowman"=>"0.8522925736385771", "Onion Market<==>justincase<=0=>Cloud Nine<==>budbrother"=>"0.537616393021742", "Silkkitie<==>klosterbier<=0=>Onion Market<==>justincase"=>"0.4040846299415626", "Silkkitie<==>klosterbier<=0=>Nucleus<==>DarkSeeds"=>"0.4949674506084791", "Evolution<==>tomorrowman<=0=>Agora<==>tambourineman"=>"0.3805813228059629", "Silkkitie<==>klosterbier<=0=>Middle Earth<==>chronicbudz"=>"0.35991286472566025"}
+{"Nucleus<==>ChinaChem<=0=>Abraxas<==>ChinaChem"=>"0.9130070067703381", "Cloud Nine<==>ChinaChem<=0=>Abraxas<==>ChinaChem"=>"0.4179483051249039"}
+{"Pandora<==>justincase<=0=>Onion Market<==>justincase"=>"0.9122859098763413", "Onion Market<==>justincase<=0=>Cloud Nine<==>budbrother"=>"0.537616393021742", "Silkkitie<==>klosterbier<=0=>Onion Market<==>justincase"=>"0.4040846299415626", "Silkkitie<==>klosterbier<=0=>Nucleus<==>DarkSeeds"=>"0.4949674506084791", "Silkkitie<==>klosterbier<=0=>Evolution<==>klosterbier"=>"0.48163463357712044", "Silkkitie<==>klosterbier<=0=>Middle Earth<==>chronicbudz"=>"0.35991286472566025"}
 {"Onion Market<==>manndrog<=0=>Evolution<==>MannDrog"=>"0.8991537146776261"}
 {"Silk Road 2<==>HarveyNorman<=0=>Evolution<==>harveynorman"=>"0.8960600065309314", "Silk Road 2<==>HarveyNorman<=0=>Agora<==>harveynorman"=>"0.5195086556587178"}
-{"Pandora<==>mendosa<=0=>Agora<==>mendosa"=>"0.8918447348026364", "Andromeda<==>mendosa<=0=>Agora<==>mendosa"=>"0.772779584003823", "Pandora<==>therealstarlight<=0=>Evolution<==>need4speed4"=>"0.5572771254323814"}
+{"Pandora<==>mendosa<=0=>Agora<==>mendosa"=>"0.8918447348026364", "Andromeda<==>mendosa<=0=>Agora<==>mendosa"=>"0.772779584003823"}
 {"Evolution<==>SunnySouthAfrica<=0=>Cloud Nine<==>guns7899"=>"0.8917062621540514", "Pandora<==>sunnysouthafrica<=0=>Evolution<==>SunnySouthAfrica"=>"0.764407187860313"}
-{"Middle Earth<==>mrsaturn<=0=>Alphabay<==>MrSaturn"=>"0.8891560988094493", "Evolution<==>FrenchTeam<=0=>Alphabay<==>LeBaron"=>"0.5129653889486543", "Evolution<==>SunnySouthAfrica<=0=>Cloud Nine<==>SunnySouthAfrica"=>"0.8578736339707487"}
+{"Middle Earth<==>mrsaturn<=0=>Alphabay<==>MrSaturn"=>"0.8891560988094493"}
 {"Middle Earth<==>tripitaka<=0=>Evolution<==>tripitaka"=>"0.8890647905127432"}
-{"Nucleus<==>cannabis-king1<=0=>Abraxas<==>online-cannabis-king"=>"0.8843456404183487", "Nucleus<==>mafiadomino<=0=>Evolution<==>PaypalVCC"=>"0.437277657861147"}
-{"Silk Road 2<==>Quixote<=0=>Agora<==>Quixotic"=>"0.8841820341479385", "Silk Road 2<==>Masakali<=0=>Evolution<==>HQ-EU-MEDICATION"=>"0.5451078632446715"}
-{"Nucleus<==>littlegoblin<=0=>Middle Earth<==>littlegoblin"=>"0.883573915738966", "Nucleus<==>littlegoblin<=0=>Agora<==>littlegoblin"=>"0.529095632146837", "Nucleus<==>ThreeKings<=0=>Evolution<==>Deeko"=>"0.4024660201747131"}
+{"Nucleus<==>cannabis-king1<=0=>Abraxas<==>online-cannabis-king"=>"0.8843456404183487"}
+{"Silk Road 2<==>Quixote<=0=>Agora<==>Quixotic"=>"0.8841820341479385"}
+{"Nucleus<==>littlegoblin<=0=>Middle Earth<==>littlegoblin"=>"0.883573915738966", "Nucleus<==>littlegoblin<=0=>Agora<==>littlegoblin"=>"0.529095632146837"}
 {"Silk Road 2<==>thebrotherhood<=0=>Evolution<==>thebrotherhood"=>"0.8798167570567498"}
 {"Middle Earth<==>mollymaniacs<=0=>Evolution<==>MollyManiacs"=>"0.8767469548734328"}
-{"Middle Earth<==>theheissenberg<=0=>Abraxas<==>TheHeissenberg"=>"0.8690090786436178", "Evolution<==>charlesmf<=0=>Abraxas<==>blackhand"=>"0.4081924529457869", "Evolution<==>charlesmf<=0=>Cloud Nine<==>QualityGoodz"=>"0.6857595436917516"}
-{"Nucleus<==>QuikConnect<=0=>Alphabay<==>QuikConnect"=>"0.8661501464608823", "Evolution<==>kimera<=0=>Alphabay<==>AGENT3500ZERO"=>"0.4455307664773803"}
-{"Outlaw<==>Straightbiz<=0=>Alphabay<==>Straightbiz"=>"0.8647717216892772", "Nucleus<==>Straightbiz<=0=>Alphabay<==>Straightbiz"=>"0.8166311108940574", "Evolution<==>zypper<=0=>Alphabay<==>dutchsnowflake"=>"0.40794874176702367"}
-{"Onion Market<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.864229964333598", "Evolution<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.7860508693927192", "Nucleus<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.3994136349603164", "Evolution<==>kimera<=0=>Alphabay<==>makikaki"=>"0.38303255777765755"}
-{"Pandora<==>verdelimon<=0=>Onion Market<==>verdelimon"=>"0.8631116410973105", "Onion Market<==>tambourinemans<=0=>Evolution<==>chemicals"=>"0.5690841347292253"}
-{"Outlaw<==>DutchSpace<=0=>Abraxas<==>DutchSpace"=>"0.8553359069637878", "Outlaw<==>DutchSpace<=0=>Nucleus<==>DutchSpace"=>"0.7678005847655756", "Silkkitie<==>dutchspacegreen<=0=>Outlaw<==>DutchSpace"=>"0.7653498298475148", "Silkkitie<==>klosterbier<=0=>Evolution<==>klosterbier"=>"0.48163463357712044", "Silkkitie<==>klosterbier<=0=>Cloud Nine<==>SAGreat"=>"0.38447309594156404"}
-{"Middle Earth<==>juzjenny<=0=>Abraxas<==>JuzJenny"=>"0.8511801660333227", "Nucleus<==>JuzJenny<=0=>Middle Earth<==>juzjenny"=>"0.6480684076838191", "Nucleus<==>ThreeKings<=0=>Evolution<==>1-Stop-Shop"=>"0.39079940366626237"}
-{"Pandora<==>Roquet<=0=>Onion Market<==>roquet"=>"0.8454748223297461", "Pandora<==>Roquet<=0=>Nucleus<==>pronaster"=>"0.6826411609872877", "Nucleus<==>pronaster<=0=>Alphabay<==>prodrugs"=>"0.8092211805108585", "Pandora<==>saguaro<=0=>Evolution<==>Biznesmen"=>"0.4532627139975945", "Outlaw<==>PROKITdrugs<=0=>Alphabay<==>prodrugs"=>"0.42656629951790515"}
-{"Silk Road 2<==>rage66666<=0=>Middle Earth<==>rage66666"=>"0.8439848541546014", "Silk Road 2<==>Masakali<=0=>Evolution<==>dqdutchquality"=>"0.42596159586882704", "Evolution<==>Biznesmen<=0=>Alphabay<==>Aventador"=>"0.3613640188649816"}
-{"Outlaw<==>PremiumProdukte<=0=>Nucleus<==>PremiumProdukte"=>"0.8419630249264555", "Nucleus<==>pronaster<=0=>Alphabay<==>FREELIVE"=>"0.7164660693315023", "Outlaw<==>PremiumProdukte<=0=>Abraxas<==>GermanOpioids"=>"0.48928775597903584", "Outlaw<==>PremiumProdukte<=0=>Evolution<==>Comebackhaze48"=>"0.4293836089389856", "Andromeda<==>entheosales<=0=>Abraxas<==>GermanOpioids"=>"0.37874418742830807", "Outlaw<==>PremiumProdukte<=0=>Agora<==>TheGermanHit"=>"0.3740203910997603"}
+{"Middle Earth<==>theheissenberg<=0=>Abraxas<==>TheHeissenberg"=>"0.8690090786436178"}
+{"Nucleus<==>QuikConnect<=0=>Alphabay<==>QuikConnect"=>"0.8661501464608823"}
+{"Outlaw<==>Straightbiz<=0=>Alphabay<==>Straightbiz"=>"0.8647717216892772", "Nucleus<==>Straightbiz<=0=>Alphabay<==>Straightbiz"=>"0.8166311108940574"}
+{"Onion Market<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.864229964333598", "Evolution<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.7860508693927192", "Nucleus<==>kobrivoje<=0=>Cloud Nine<==>kobrivoje"=>"0.3994136349603164"}
+{"Pandora<==>verdelimon<=0=>Onion Market<==>verdelimon"=>"0.8631116410973105"}
+{"Outlaw<==>DutchSpace<=0=>Abraxas<==>DutchSpace"=>"0.8553359069637878", "Outlaw<==>DutchSpace<=0=>Nucleus<==>DutchSpace"=>"0.7678005847655756", "Silkkitie<==>dutchspacegreen<=0=>Outlaw<==>DutchSpace"=>"0.7653498298475148"}
+{"Middle Earth<==>juzjenny<=0=>Abraxas<==>JuzJenny"=>"0.8511801660333227", "Nucleus<==>JuzJenny<=0=>Middle Earth<==>juzjenny"=>"0.6480684076838191"}
+{"Pandora<==>Roquet<=0=>Onion Market<==>roquet"=>"0.8454748223297461", "Pandora<==>Roquet<=0=>Nucleus<==>pronaster"=>"0.6826411609872877", "Nucleus<==>pronaster<=0=>Alphabay<==>prodrugs"=>"0.8092211805108585", "Outlaw<==>PROKITdrugs<=0=>Alphabay<==>prodrugs"=>"0.42656629951790515"}
+{"Silk Road 2<==>rage66666<=0=>Middle Earth<==>rage66666"=>"0.8439848541546014"}
+{"Outlaw<==>PremiumProdukte<=0=>Nucleus<==>PremiumProdukte"=>"0.8419630249264555", "Outlaw<==>PremiumProdukte<=0=>Abraxas<==>GermanOpioids"=>"0.48928775597903584", "Outlaw<==>PremiumProdukte<=0=>Evolution<==>Comebackhaze48"=>"0.4293836089389856", "Andromeda<==>entheosales<=0=>Abraxas<==>GermanOpioids"=>"0.37874418742830807", "Outlaw<==>PremiumProdukte<=0=>Agora<==>TheGermanHit"=>"0.3740203910997603"}
 {"Silk Road 2<==>dgslabz<=0=>Agora<==>dgslabz"=>"0.8401063559301223", "Silk Road 2<==>dgslabz<=0=>Evolution<==>dgslabz"=>"0.5885540248788217"}
-{"Pandora<==>IsolatedWarrior<=0=>Onion Market<==>isolatedwarrior"=>"0.8380499443409387", "Pandora<==>IsolatedWarrior<=0=>Cloud Nine<==>IsolatedWarrior"=>"0.8016294974220992", "Evolution<==>highflyer<=0=>Cloud Nine<==>passman"=>"0.3858550463441347"}
-{"Pandora<==>drugteam<=0=>Onion Market<==>drugteam"=>"0.836025389246324", "Pandora<==>saguaro<=0=>Evolution<==>FreeFox"=>"0.37724690296267366"}
-{"Pandora<==>goodfornothing<=0=>Onion Market<==>goodfornothing"=>"0.8342827923019603", "Pandora<==>saguaro<=0=>Evolution<==>BioCanna"=>"0.35845108222246463", "Silk Road 2<==>BioCanna<=0=>Evolution<==>BioCanna"=>"0.7035065766212701", "Silk Road 2<==>BioCanna<=0=>Nucleus<==>BioCanna"=>"0.7368716388688071"}
+{"Pandora<==>IsolatedWarrior<=0=>Onion Market<==>isolatedwarrior"=>"0.8380499443409387", "Pandora<==>IsolatedWarrior<=0=>Cloud Nine<==>IsolatedWarrior"=>"0.8016294974220992"}
+{"Pandora<==>drugteam<=0=>Onion Market<==>drugteam"=>"0.836025389246324"}
+{"Pandora<==>goodfornothing<=0=>Onion Market<==>goodfornothing"=>"0.8342827923019603"}
 {"Evolution<==>DrFeelG00d<=0=>Alphabay<==>DrFeelG00d"=>"0.8304887414209988"}
-{"Nucleus<==>Sinnombre<=0=>Alphabay<==>Sinnombre"=>"0.8302106813713123", "Evolution<==>agrowthlabs<=0=>Alphabay<==>bigbux"=>"0.4047030932778442"}
-{"Pandora<==>B0SShoss<=0=>Onion Market<==>b0sshoss"=>"0.8229584782849112", "Pandora<==>saguaro<=0=>Evolution<==>newbie"=>"0.3558871315890134"}
-{"Nucleus<==>emeraldgemini<=0=>Abraxas<==>emeraldgemini"=>"0.8220066476913959", "Evolution<==>MedizinMann<=0=>Abraxas<==>GermanOpioids"=>"0.4233805143729853", "Evolution<==>MedizinMann<=0=>Alphabay<==>MedizinMann"=>"0.3855477014128826", "Alphabay<==>MedizinMann<=0=>Agora<==>MedizinMann"=>"0.48826552320880934"}
-{"Pandora<==>AlbertHeijn<=0=>Cloud Nine<==>AlbertHeijn"=>"0.8114402940369452", "Cloud Nine<==>AlbertHeijn<=0=>Agora<==>AlbertHeijn"=>"0.39578835077488705", "Evolution<==>MISSH<=0=>Cloud Nine<==>passman"=>"0.3751007583392763"}
-{"Nucleus<==>precursor-sultan<=0=>Agora<==>precursor-sultan"=>"0.8104945854416252", "Nucleus<==>kobrivoje<=0=>Evolution<==>idealpills"=>"0.365729634467328", "Middle Earth<==>meds2buy<=0=>Evolution<==>idealpills"=>"0.3983389772326935"}
+{"Nucleus<==>Sinnombre<=0=>Alphabay<==>Sinnombre"=>"0.8302106813713123"}
+{"Pandora<==>B0SShoss<=0=>Onion Market<==>b0sshoss"=>"0.8229584782849112"}
+{"Nucleus<==>emeraldgemini<=0=>Abraxas<==>emeraldgemini"=>"0.8220066476913959"}
+{"Pandora<==>AlbertHeijn<=0=>Cloud Nine<==>AlbertHeijn"=>"0.8114402940369452", "Cloud Nine<==>AlbertHeijn<=0=>Agora<==>AlbertHeijn"=>"0.39578835077488705"}
+{"Nucleus<==>precursor-sultan<=0=>Agora<==>precursor-sultan"=>"0.8104945854416252"}
 {"Nucleus<==>rc4me<=0=>Evolution<==>rc4me"=>"0.8098364154758917"}
-{"Silk Road 2<==>UGL OZ<=0=>Onion Market<==>ugloz"=>"0.8090375883588455", "Silk Road 2<==>cocacola007<=0=>Evolution<==>profesorhouse"=>"0.41521698898944187"}
+{"Silk Road 2<==>UGL OZ<=0=>Onion Market<==>ugloz"=>"0.8090375883588455"}
 {"Nucleus<==>A1CRACK<=0=>Evolution<==>A1CRACK"=>"0.8042121062910417"}
-{"Silk Road 2<==>Stealth Bomber<=0=>Cloud Nine<==>Stealth Bomber"=>"0.8041057064473552", "Silk Road 2<==>cocacola007<=0=>Evolution<==>CONvenience"=>"0.40856404193870016", "Evolution<==>CONvenience<=0=>Alphabay<==>GetVerified"=>"0.38024742659402017"}
+{"Silk Road 2<==>Stealth Bomber<=0=>Cloud Nine<==>Stealth Bomber"=>"0.8041057064473552"}
 {"Nucleus<==>Kingsup<=0=>Middle Earth<==>kingsup"=>"0.8029467888366266", "Middle Earth<==>kingsup<=0=>Alphabay<==>Kingsup"=>"0.600671322751113", "Middle Earth<==>kingsup<=0=>Evolution<==>kalashnikov"=>"0.39985130712606237"}
-{"Nucleus<==>Reximusmaximus<=0=>Evolution<==>Reximusmaximus"=>"0.7965228292053003", "Nucleus<==>Kingsup<=0=>Alphabay<==>CardBoss"=>"0.3953939347577903"}
+{"Nucleus<==>Reximusmaximus<=0=>Evolution<==>Reximusmaximus"=>"0.7965228292053003"}
 {"Pandora<==>BV<=0=>Onion Market<==>bv"=>"0.7930265131455669"}
-{"Silk Road 2<==>FREE SHOP<=0=>Onion Market<==>freeshop"=>"0.7928667456961981", "Onion Market<==>freeshop<=0=>Evolution<==>only"=>"0.4220210777247398", "Evolution<==>only<=0=>Andromeda<==>mikehamer"=>"0.3969515425406012", "Evolution<==>CONvenience<=0=>Alphabay<==>black2white"=>"0.3677100621716853"}
-{"Silk Road 2<==>Peaceful<=0=>Evolution<==>Peaceful"=>"0.7910264774713978", "Silk Road 2<==>Peaceful<=0=>Nucleus<==>MindAndMatter"=>"0.6914616472248848", "Evolution<==>kalashnikov<=0=>Alphabay<==>documents"=>"0.36463094954454933"}
-{"Nucleus<==>heizzenberg<=0=>Alphabay<==>heizzenberg"=>"0.790986280963444", "Evolution<==>Gekko<=0=>Alphabay<==>black2white"=>"0.4073214070952743"}
+{"Silk Road 2<==>FREE SHOP<=0=>Onion Market<==>freeshop"=>"0.7928667456961981", "Onion Market<==>freeshop<=0=>Evolution<==>only"=>"0.4220210777247398", "Evolution<==>only<=0=>Andromeda<==>mikehamer"=>"0.3969515425406012"}
+{"Silk Road 2<==>Peaceful<=0=>Evolution<==>Peaceful"=>"0.7910264774713978", "Silk Road 2<==>Peaceful<=0=>Nucleus<==>MindAndMatter"=>"0.6914616472248848"}
+{"Nucleus<==>heizzenberg<=0=>Alphabay<==>heizzenberg"=>"0.790986280963444"}
 {"Evolution<==>Chipzahoy<=0=>Andromeda<==>Chipzahoy"=>"0.7896250688853007"}
 {"Silk Road 2<==>ThePinkPanther<=0=>Evolution<==>ThePinkPanther"=>"0.7858839347551195", "Evolution<==>ThePinkPanther<=0=>Abraxas<==>ThePinkPanther"=>"0.48249960064065794", "Agora<==>ThePinkPanther<=0=>Abraxas<==>ThePinkPanther"=>"0.3829783030645154"}
 {"Nucleus<==>JustForKix<=0=>Agora<==>Panoramix"=>"0.7779266385066516", "Nucleus<==>JustForKix<=0=>Evolution<==>Jungleman1"=>"0.370509030954187", "Evolution<==>Jungleman1<=0=>Alphabay<==>AddamsFamily"=>"0.5980518510951542", "Evolution<==>Jungleman1<=0=>Alpaca<==>projeccao"=>"0.4918143166372707", "Onion Market<==>g1s3x1r0<=0=>Evolution<==>Jungleman1"=>"0.4605504690404287", "Outlaw<==>projeccao<=0=>Alpaca<==>projeccao"=>"0.3584521634041396"}
-{"Nucleus<==>europhin<=0=>Evolution<==>europhin"=>"0.7730866329636805", "Evolution<==>Jungleman1<=0=>Agora<==>lamachine"=>"0.4097582955610664"}
-{"Pandora<==>Pflegerin<=0=>Agora<==>pflegerin"=>"0.7716702997862209", "Outlaw<==>pflegerin<=0=>Agora<==>pflegerin"=>"0.7388933878339524", "Evolution<==>projeccao<=0=>Agora<==>lamachine"=>"0.41813354554947685", "Nucleus<==>ketama<=0=>Evolution<==>Jungleman1"=>"0.5036197200136038", "Evolution<==>projeccao<=0=>Alphabay<==>freshtea"=>"0.4085248207153536", "Evolution<==>projeccao<=0=>Alpaca<==>Marlodz"=>"0.36073778015489577"}
-{"Silk Road 2<==>FoxyGirl<=0=>Evolution<==>FoxyGirl"=>"0.7710804540822083", "Evolution<==>FoxyGirl<=0=>Alphabay<==>bigdeal"=>"0.5688006122084995", "Nucleus<==>sheguey<=0=>Evolution<==>Jungleman1"=>"0.4372338887825446"}
-{"Pandora<==>kwikemart<=0=>Onion Market<==>kwikemart"=>"0.7692332570851141", "Onion Market<==>g1s3x1r0<=0=>Evolution<==>marlodz"=>"0.4293979666739356"}
+{"Nucleus<==>europhin<=0=>Evolution<==>europhin"=>"0.7730866329636805"}
+{"Pandora<==>Pflegerin<=0=>Agora<==>pflegerin"=>"0.7716702997862209", "Outlaw<==>pflegerin<=0=>Agora<==>pflegerin"=>"0.7388933878339524"}
+{"Silk Road 2<==>FoxyGirl<=0=>Evolution<==>FoxyGirl"=>"0.7710804540822083", "Evolution<==>FoxyGirl<=0=>Alphabay<==>bigdeal"=>"0.5688006122084995"}
+{"Pandora<==>kwikemart<=0=>Onion Market<==>kwikemart"=>"0.7692332570851141"}
 {"Outlaw<==>hackthegibson<=0=>Evolution<==>hackthegibson"=>"0.7683860404590875"}
 {"Pandora<==>PureHeaven<=0=>Evolution<==>PureHeaven"=>"0.7622535175187495", "Evolution<==>PureHeaven<=0=>Agora<==>PureHeaven-Agora"=>"0.587347724117236"}
 {"Evolution<==>Apotheke<=0=>Agora<==>Apotheke"=>"0.7573439406617528"}
-{"Nucleus<==>shades_on<=0=>Middle Earth<==>shades_on"=>"0.7546582412392278", "Nucleus<==>europhin<=0=>Evolution<==>psychopioid"=>"0.5449310189090224"}
+{"Nucleus<==>shades_on<=0=>Middle Earth<==>shades_on"=>"0.7546582412392278"}
 {"Evolution<==>Aracay<=0=>Agora<==>Aracay"=>"0.7453148827950926", "Middle Earth<==>dionysos<=0=>Agora<==>Aracay"=>"0.3636727874956127"}
-{"Nucleus<==>NextDayDope<=0=>Agora<==>nextdaydope"=>"0.7442070934866664", "Evolution<==>CipherCracks<=0=>Agora<==>Aracay"=>"0.37347458147886425"}
-{"Onion Market<==>jacknhoff<=0=>Evolution<==>JackNHoff"=>"0.7431116613611847", "Evolution<==>CipherCracks<=0=>Agora<==>CipherCracks"=>"0.41167311553616126"}
+{"Alphabay<==>optiman<=0=>Abraxas<==>optiman"=>"0.7446468792000026", "Evolution<==>blackhand<=0=>Abraxas<==>optiman"=>"0.3582186428785466"}
+{"Nucleus<==>NextDayDope<=0=>Agora<==>nextdaydope"=>"0.7442070934866664"}
+{"Onion Market<==>jacknhoff<=0=>Evolution<==>JackNHoff"=>"0.7431116613611847"}
 {"Evolution<==>KINGCACTUS<=0=>Agora<==>KINGCACTUS"=>"0.7407611097408837", "Evolution<==>KINGCACTUS<=0=>Abraxas<==>queenskywalker"=>"0.6461748970059531"}
-{"Cloud Nine<==>CosmicGypsies<=0=>Alpaca<==>CosmicGypsies"=>"0.7401995264782653", "Evolution<==>fromnetherlands<=0=>Alpaca<==>DarkVendor"=>"0.5403258211297165", "Middle Earth<==>speedy-gonzales<=0=>Evolution<==>fromnetherlands"=>"0.45529453790945423", "Middle Earth<==>speedy-gonzales<=0=>Alphabay<==>chosek"=>"0.40188844215337355", "Alpaca<==>Steacensen<=0=>Agora<==>LegitGearKing2015"=>"0.3645315304813914"}
+{"Cloud Nine<==>CosmicGypsies<=0=>Alpaca<==>CosmicGypsies"=>"0.7401995264782653"}
 {"Nucleus<==>takor<=0=>Evolution<==>esperao"=>"0.7392361632189984", "Nucleus<==>takor<=0=>Agora<==>zolter"=>"0.5182651505907613"}
-{"Nucleus<==>FSB Tools<=0=>Abraxas<==>dirtyharry"=>"0.7358840364010855", "Nucleus<==>FSB Tools<=0=>Andromeda<==>matze"=>"0.6838006886932618", "Alphabay<==>drugs2go<=0=>Abraxas<==>dirtyharry"=>"0.6613484594185922", "Evolution<==>mikehamer<=0=>Andromeda<==>mikehamer"=>"0.6222279410325717", "Silkkitie<==>online-drugs<=0=>Alphabay<==>drugs2go"=>"0.37690345137437087"}
-{"Silk Road 2<==>theanchor<=0=>Pandora<==>theanchor"=>"0.7348091662617429", "Silk Road 2<==>cocacola007<=0=>Evolution<==>StealthGang"=>"0.4072759092570085"}
-{"Silk Road 2<==>bestaussieweed<=0=>Cloud Nine<==>bestaussiegear"=>"0.730967032648194", "Silk Road 2<==>cocacola007<=0=>Evolution<==>cocacola"=>"0.3809672210309516"}
-{"Pandora<==>snapback<=0=>Cloud Nine<==>snapback"=>"0.7292952103387401", "Evolution<==>Lunacat<=0=>Cloud Nine<==>SAGreat"=>"0.36168126856432775"}
+{"Silk Road 2<==>BioCanna<=0=>Nucleus<==>BioCanna"=>"0.7368716388688071", "Silk Road 2<==>BioCanna<=0=>Evolution<==>BioCanna"=>"0.7035065766212701", "Pandora<==>saguaro<=0=>Evolution<==>BioCanna"=>"0.35845108222246463"}
+{"Nucleus<==>FSB Tools<=0=>Abraxas<==>dirtyharry"=>"0.7358840364010855", "Nucleus<==>FSB Tools<=0=>Andromeda<==>matze"=>"0.6838006886932618", "Alphabay<==>drugs2go<=0=>Abraxas<==>dirtyharry"=>"0.6613484594185922", "Silkkitie<==>online-drugs<=0=>Alphabay<==>drugs2go"=>"0.37690345137437087"}
+{"Silk Road 2<==>theanchor<=0=>Pandora<==>theanchor"=>"0.7348091662617429"}
+{"Silk Road 2<==>bestaussieweed<=0=>Cloud Nine<==>bestaussiegear"=>"0.730967032648194"}
+{"Pandora<==>snapback<=0=>Cloud Nine<==>snapback"=>"0.7292952103387401"}
 {"Nucleus<==>UKWHITE<=0=>Evolution<==>ukwhite"=>"0.7281328101278156", "Nucleus<==>UKWHITE<=0=>Alphabay<==>ukwhite"=>"0.5068224308761188"}
 {"Evolution<==>QP-Master<=0=>Agora<==>QP-Master"=>"0.7269837726154983"}
-{"Silk Road 2<==>ozexpressSR<=0=>Abraxas<==>ozexpress"=>"0.7226846501012595", "Evolution<==>swampdonkey<=0=>Abraxas<==>ThePinkPanther"=>"0.4054443026349055"}
+{"Silk Road 2<==>ozexpressSR<=0=>Abraxas<==>ozexpress"=>"0.7226846501012595"}
 {"Nucleus<==>multiexciter<=0=>Evolution<==>multiexciter"=>"0.7214949042184624"}
 {"Evolution<==>OMGADD<=0=>Cloud Nine<==>OMGADD"=>"0.7205326991461853"}
 {"Nucleus<==>purposechem<=0=>Agora<==>purposechem"=>"0.7187682582853608"}
-{"Nucleus<==>goldenkush<=0=>Alphabay<==>goldenkush1"=>"0.7125568479922498", "Evolution<==>megadrive<=0=>Alphabay<==>AddamsFamily"=>"0.4006696508067165"}
+{"Nucleus<==>goldenkush<=0=>Alphabay<==>goldenkush1"=>"0.7125568479922498"}
 {"Silk Road 2<==>roll_on<=0=>Evolution<==>roll_on"=>"0.7124939720170251"}
 {"Evolution<==>Warlord5000<=0=>Agora<==>Warlord3000"=>"0.7116231816213099"}
 {"Nucleus<==>gvforsaleal<=0=>Evolution<==>gvforsaleal"=>"0.7112441023318367"}
-{"Nucleus<==>cheapeuros<=0=>Middle Earth<==>cheap_euros"=>"0.7110030651913524", "Middle Earth<==>dionysos<=0=>Evolution<==>dionysos"=>"0.5964100895552705"}
+{"Nucleus<==>cheapeuros<=0=>Middle Earth<==>cheap_euros"=>"0.7110030651913524"}
 {"Evolution<==>HeinekenBeer<=0=>Agora<==>HeinekenBeer"=>"0.7107969487276217"}
 {"Evolution<==>NORWEGIANcom<=0=>Agora<==>NORWEGIANcom"=>"0.7106854636515885"}
-{"Nucleus<==>AuStores<=0=>Abraxas<==>AuStore"=>"0.7092040475635908", "Agora<==>AUsTORe<=0=>Abraxas<==>AuStore"=>"0.4270250051844959", "Evolution<==>Gold<=0=>Abraxas<==>Hackyboy"=>"0.3872416049459196", "Silk Road 2<==>gold<=0=>Evolution<==>Gold"=>"0.6211314625222838"}
-{"Nucleus<==>fungee<=0=>Cloud Nine<==>fun-gee"=>"0.7077777818923268", "Evolution<==>BitStorm<=0=>Cloud Nine<==>Hackyboy"=>"0.3590850821757199"}
+{"Nucleus<==>AuStores<=0=>Abraxas<==>AuStore"=>"0.7092040475635908", "Agora<==>AUsTORe<=0=>Abraxas<==>AuStore"=>"0.4270250051844959"}
+{"Nucleus<==>fungee<=0=>Cloud Nine<==>fun-gee"=>"0.7077777818923268"}
 {"Silk Road 2<==>MagicTed<=0=>Evolution<==>MagicTed"=>"0.7076360442863442"}
-{"Silk Road 2<==>nativechief<=0=>Onion Market<==>nativechief"=>"0.7065663523142443", "Onion Market<==>g1s3x1r0<=0=>Evolution<==>space"=>"0.41482343658742377", "Nucleus<==>Bugz<=0=>Evolution<==>space"=>"0.4899834779651616"}
-{"Cloud Nine<==>BCDirect<=0=>1776<==>bcdirect"=>"0.7058102270771195", "Middle Earth<==>bcdirect<=0=>Cloud Nine<==>BCDirect"=>"0.6899595876199212", "Evolution<==>KingConcentrates<=0=>Cloud Nine<==>BCDirect"=>"0.3853804453520419", "Silk Road 2<==>MagicTed-UK<=0=>Evolution<==>MagicTed"=>"0.4706509116765795", "Onion Market<==>rook<=0=>Evolution<==>KingConcentrates"=>"0.3806763989253447", "Evolution<==>KingConcentrates<=0=>Alphabay<==>HighQuality"=>"0.3568818931101052"}
-{"Silkkitie<==>Powsub<=0=>Alphabay<==>ryadoon69"=>"0.7028046741515008", "Silkkitie<==>klosterbier<=0=>Evolution<==>EgoEchoes"=>"0.4287633387330596"}
+{"Silk Road 2<==>nativechief<=0=>Onion Market<==>nativechief"=>"0.7065663523142443"}
+{"Silk Road 2<==>starlight<=0=>Evolution<==>BananaKing"=>"0.7062550740808783", "Silk Road 2<==>starlight<=0=>Pandora<==>therealstarlight"=>"0.6930544098633316", "Silk Road 2<==>starlight<=0=>Nucleus<==>ThreeKings"=>"0.37804411407001187", "Nucleus<==>ThreeKings<=0=>Alphabay<==>bigbux"=>"0.6000031380562489", "Nucleus<==>ThreeKings<=0=>Alpaca<==>eliterx"=>"0.5770339274007433", "Alphabay<==>bigbux<=0=>Agora<==>bodyinaction"=>"0.5458115613150986", "Middle Earth<==>spartanlabsoz<=0=>Alpaca<==>eliterx"=>"0.41743632958347715", "Onion Market<==>bodyaid<=0=>Alphabay<==>bigbux"=>"0.39227987941794695"}
+{"Cloud Nine<==>BCDirect<=0=>1776<==>bcdirect"=>"0.7058102270771195", "Middle Earth<==>bcdirect<=0=>Cloud Nine<==>BCDirect"=>"0.6899595876199212", "Evolution<==>KingConcentrates<=0=>Cloud Nine<==>BCDirect"=>"0.3853804453520419", "Onion Market<==>rook<=0=>Evolution<==>KingConcentrates"=>"0.3806763989253447", "Evolution<==>KingConcentrates<=0=>Alphabay<==>HighQuality"=>"0.3568818931101052"}
+{"Evolution<==>Joe0709<=0=>Cloud Nine<==>Hackyboy"=>"0.7052676500110536", "Cloud Nine<==>Hackyboy<=0=>Alphabay<==>LeBaron"=>"0.6805754090957018", "Cloud Nine<==>Hackyboy<=0=>Abraxas<==>Hackyboy"=>"0.5768870448535152", "Pandora<==>safetybets<=0=>Cloud Nine<==>Hackyboy"=>"0.444270157825468", "Pandora<==>safetybets<=0=>Nucleus<==>be.ok"=>"0.46503275978626074", "The Pirate Market<==>QronikzKidd<=0=>Nucleus<==>be.ok"=>"0.4154852716363724", "Agora<==>smart666tiger<=0=>Abraxas<==>Hackyboy"=>"0.37295072520657563", "Silk Road 2<==>cocacola007<=0=>Agora<==>smart666tiger"=>"0.3861925609250359"}
+{"Silkkitie<==>Powsub<=0=>Alphabay<==>ryadoon69"=>"0.7028046741515008"}
 {"Evolution<==>ozdeals<=0=>Cloud Nine<==>ozdeals"=>"0.6980133217315542"}
 {"Evolution<==>Merkur-Shop<=0=>Agora<==>.Merkur"=>"0.6968481858449656", "Evolution<==>Merkur-Shop<=0=>Alphabay<==>lostheaven"=>"0.35991053506714604"}
-{"Evolution<==>MyPharmacy<=0=>Alphabay<==>MyPharmacy"=>"0.6936459431527189", "Alphabay<==>lostheaven<=0=>Agora<==>lostheaven007"=>"0.5768088343766345", "Onion Market<==>nocturn4l<=0=>Agora<==>lostheaven007"=>"0.383802667415113", "Silk Road 2<==>CloudSurfer<=0=>Agora<==>lostheaven007"=>"0.355319183944537"}
+{"Evolution<==>MyPharmacy<=0=>Alphabay<==>MyPharmacy"=>"0.6936459431527189"}
 {"Pandora<==>beige4you<=0=>Onion Market<==>beige4you"=>"0.6928028514741489"}
-{"Silk Road 2<==>AussiePrime<=0=>Onion Market<==>aussieprime"=>"0.6880078396184417", "Silk Road 2<==>cocacola007<=0=>Evolution<==>FRIM"=>"0.3801598736092173"}
+{"Silk Road 2<==>AussiePrime<=0=>Onion Market<==>aussieprime"=>"0.6880078396184417"}
+{"Evolution<==>charlesmf<=0=>Cloud Nine<==>QualityGoodz"=>"0.6857595436917516", "Evolution<==>charlesmf<=0=>Andromeda<==>blackhand"=>"0.41419892011163206", "Evolution<==>charlesmf<=0=>Abraxas<==>blackhand"=>"0.4081924529457869", "Silk Road 2<==>echo<=0=>Andromeda<==>blackhand"=>"0.3930488458858765", "Agora<==>Optumis<=0=>Abraxas<==>blackhand"=>"0.3895639587668909", "Evolution<==>charlesmf<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3775349385702006", "Nucleus<==>bluerave<=0=>Abraxas<==>blackhand"=>"0.3701424846140966", "Pandora<==>therealstarlight<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3569704195521877"}
 {"Silk Road 2<==>tocoolforschool14<=0=>Evolution<==>tocoolforschool"=>"0.685444749227551"}
 {"Cloud Nine<==>Baron<=0=>Agora<==>Baron"=>"0.6853816052924884"}
 {"Pandora<==>dutchpride<=0=>Evolution<==>DutchPride"=>"0.6806385373539043"}
 {"Silk Road 2<==>canadaflag<=0=>Evolution<==>canadaflag"=>"0.6785498336127787"}
-{"Onion Market<==>gonz324<=0=>Cloud Nine<==>gonz324"=>"0.6776038576021461", "Outlaw<==>gonz324<=0=>Onion Market<==>gonz324"=>"0.4952541047018484", "Outlaw<==>PremiumProdukte<=0=>Evolution<==>bauer69"=>"0.35341875660456806"}
+{"Evolution<==>marlodz<=0=>Alpaca<==>Marlodz"=>"0.678340099766195", "Evolution<==>marlodz<=0=>Alphabay<==>AddamsFamily"=>"0.5461988177291166", "Nucleus<==>ketama<=0=>Alphabay<==>AddamsFamily"=>"0.6157609995006906", "Onion Market<==>g1s3x1r0<=0=>Evolution<==>marlodz"=>"0.4293979666739356", "Evolution<==>marlodz<=0=>Agora<==>lamachine"=>"0.3726318168223977"}
+{"Onion Market<==>gonz324<=0=>Cloud Nine<==>gonz324"=>"0.6776038576021461", "Outlaw<==>gonz324<=0=>Onion Market<==>gonz324"=>"0.4952541047018484"}
 {"Onion Market<==>urpe12<=0=>Cloud Nine<==>pure12"=>"0.677154294426106"}
-{"Outlaw<==>carlos lopez<=0=>Abraxas<==>carlos_lopez"=>"0.6754147613818476", "Agora<==>carlos_lopez<=0=>Abraxas<==>carlos_lopez"=>"0.6261966725127462", "Evolution<==>Yasuo<=0=>Abraxas<==>PayPalTransfer"=>"0.365106950221935"}
-{"Silkkitie<==>OneKing<=0=>Agora<==>OneKing"=>"0.674235065652692", "Silkkitie<==>klosterbier<=0=>Evolution<==>pocketscale"=>"0.3526289971726703", "Evolution<==>pocketscale<=0=>Cloud Nine<==>pocketscale"=>"0.5682990822374484"}
+{"Outlaw<==>carlos lopez<=0=>Abraxas<==>carlos_lopez"=>"0.6754147613818476", "Agora<==>carlos_lopez<=0=>Abraxas<==>carlos_lopez"=>"0.6261966725127462"}
+{"Silkkitie<==>OneKing<=0=>Agora<==>OneKing"=>"0.674235065652692"}
 {"Pandora<==>cornetto<=0=>Evolution<==>cornettos"=>"0.6740504066650435", "Pandora<==>cornetto<=0=>Agora<==>cornettos"=>"0.575920410400775"}
 {"Silk Road 2<==>DimitryTOO<=0=>Andromeda<==>Dimitry"=>"0.6721939564935632"}
 {"Evolution<==>A1FBG<=0=>Agora<==>A1FBG"=>"0.6721205993416189"}
-{"Silk Road 2<==>VGer<=0=>Agora<==>VGer"=>"0.6703463869893521", "Evolution<==>footstool<=0=>Agora<==>A1FBG"=>"0.357898031193567"}
+{"Silk Road 2<==>VGer<=0=>Agora<==>VGer"=>"0.6703463869893521"}
+{"Alphabay<==>th3com3dian<=0=>Agora<==>hadherall"=>"0.6650029455454483", "Cloud Nine<==>scaptain<=0=>Alphabay<==>th3com3dian"=>"0.43131280352289886", "Cloud Nine<==>scaptain<=0=>Abraxas<==>Dr_Seuss"=>"0.5810652665928352", "Nucleus<==>PharmaPhil<=0=>Abraxas<==>Dr_Seuss"=>"0.5586992122921178", "Nucleus<==>PharmaPhil<=0=>Evolution<==>Fentastic"=>"0.4417493258167114"}
 {"Evolution<==>OxyMonster<=0=>Abraxas<==>OxyMonster"=>"0.6649017560518085"}
-{"Silk Road 2<==>Dekay<=0=>Abraxas<==>Dekay"=>"0.663919476882839", "Silk Road 2<==>VGer<=0=>Agora<==>StarDockGaLiX"=>"0.4964403705215022"}
-{"Pandora<==>elitecowboys<=0=>Onion Market<==>elitecowboys"=>"0.6632291240999798", "Pandora<==>dutchpride<=0=>Evolution<==>Alex-SosaNL"=>"0.45064816808932306", "Evolution<==>Alex-SosaNL<=0=>Agora<==>Walt-Disney"=>"0.3740943739586972"}
+{"Silk Road 2<==>Dekay<=0=>Abraxas<==>Dekay"=>"0.663919476882839"}
+{"Pandora<==>elitecowboys<=0=>Onion Market<==>elitecowboys"=>"0.6632291240999798"}
 {"Nucleus<==>BESTDRUGS<=0=>Evolution<==>Bestdrugs"=>"0.6618987698865787"}
 {"Andromeda<==>eztest<=0=>Alphabay<==>eztest"=>"0.6593809891317006", "Evolution<==>xanadou<=0=>Alphabay<==>eztest"=>"0.582002609171077", "Onion Market<==>nigger<=0=>Alphabay<==>eztest"=>"0.5333328569383164"}
 {"Pandora<==>AusBuys<=0=>Onion Market<==>ausbuys"=>"0.6587531719745003"}
 {"Evolution<==>SnackTime<=0=>Agora<==>SnackTime"=>"0.6569249243432658"}
-{"Silk Road 2<==>ozzydealsdirect<=0=>Evolution<==>OzzyDealsDirect"=>"0.6552813827476028", "Silk Road 2<==>VGer<=0=>Agora<==>citizon_1"=>"0.48029778655450583"}
+{"Silk Road 2<==>ozzydealsdirect<=0=>Evolution<==>OzzyDealsDirect"=>"0.6552813827476028"}
 {"Silk Road 2<==>Voucher Express<=0=>Evolution<==>VoucherExpress"=>"0.6529821957165928"}
-{"Silkkitie<==>AppleMarket<=0=>Agora<==>apple.store"=>"0.651443162038097", "Evolution<==>godfatherNL<=0=>Agora<==>Walt-Disney"=>"0.38918410258938196"}
+{"Silkkitie<==>AppleMarket<=0=>Agora<==>apple.store"=>"0.651443162038097"}
 {"Middle Earth<==>skrillpapa<=0=>Agora<==>TokyoRelay"=>"0.6514144536409439"}
 {"Onion Market<==>only4germany<=0=>Evolution<==>only4germany"=>"0.6460506354477753"}
 {"Outlaw<==>mrcronk<=0=>Middle Earth<==>mrcronk"=>"0.6399061155936647"}
 {"Pandora<==>PillspillsPills<=0=>Onion Market<==>pillspillspills"=>"0.6395066576154751"}
 {"Pandora<==>lindalovelace<=0=>Onion Market<==>lindalovelace"=>"0.6375996230090928"}
-{"Alphabay<==>Junkie_Jesus<=0=>Abraxas<==>Junkie_Jesus"=>"0.6336343217638661", "Evolution<==>chopin<=0=>Alphabay<==>black2white"=>"0.39758100662352674"}
+{"Alphabay<==>Junkie_Jesus<=0=>Abraxas<==>Junkie_Jesus"=>"0.6336343217638661"}
 {"Silk Road 2<==>MagicAU<=0=>Pandora<==>dicknack"=>"0.6315949546132084", "Pandora<==>dicknack<=0=>Agora<==>kriminale1"=>"0.6090388162930342"}
 {"Silk Road 2<==>T5<=0=>Alpaca<==>Azures"=>"0.6311333320394297", "Silk Road 2<==>T5<=0=>Nucleus<==>T5NBOMe"=>"0.5954403335057818", "Silk Road 2<==>T5<=0=>Evolution<==>T5_Nbome"=>"0.5736658408604299", "Nucleus<==>T5NBOMe<=0=>Agora<==>T5_NBOMe"=>"0.5494361891351545"}
 {"Middle Earth<==>the_nsa<=0=>Agora<==>goldentemplecartel"=>"0.6300593345182018", "Nucleus<==>nerviozzo<=0=>Agora<==>goldentemplecartel"=>"0.40978936144720035", "Outlaw<==>virtualzombi<=0=>Middle Earth<==>the_nsa"=>"0.39084895307969636", "Outlaw<==>virtualzombi<=0=>Cloud Nine<==>rookfelixs"=>"0.43448516807262794", "Nucleus<==>nerviozzo<=0=>Evolution<==>DOCTOR_DOPE"=>"0.3708308032939053"}
+{"Silk Road 2<==>gold<=0=>Evolution<==>Gold"=>"0.6211314625222838", "Evolution<==>Gold<=0=>Abraxas<==>Hackyboy"=>"0.3872416049459196", "Alphabay<==>AGENT3500ZERO<=0=>Abraxas<==>Hackyboy"=>"0.4838919185029234", "Alphabay<==>AGENT3500ZERO<=0=>Agora<==>fake"=>"0.4212975767185211", "Cloud Nine<==>Hackyboy<=0=>Alphabay<==>AGENT3500ZERO"=>"0.3909678191229616", "Pandora<==>safetybets<=0=>Abraxas<==>Hackyboy"=>"0.3582911352452986", "Pandora<==>safetybets<=0=>Nucleus<==>mafiadomino"=>"0.3537088125849875"}
 {"Middle Earth<==>thevault<=0=>Abraxas<==>TheVault"=>"0.6207422327888791"}
 {"Silk Road 2<==>AlbertHoffman1943<=0=>Onion Market<==>alberthoffman194"=>"0.6180137346280449"}
-{"Agora<==>thecheekygirls<=0=>Abraxas<==>thecheekygirls"=>"0.6137430737624222", "Nucleus<==>feedmykids<=0=>Agora<==>goldentemplecartel"=>"0.3941589395543841"}
-{"Silk Road 2<==>TeamZissou<=0=>Agora<==>TeamZissou"=>"0.611373484361785", "Nucleus<==>stoeprand<=0=>Agora<==>goldentemplecartel"=>"0.3819857336055331"}
+{"Silk Road 2<==>spartanlabsoz<=0=>Evolution<==>spartanlabsoz"=>"0.6179240853660001", "Silk Road 2<==>spartanlabsoz<=0=>Middle Earth<==>spartanlabsoz"=>"0.5507634162138259", "Evolution<==>spartanlabsoz<=0=>Alphabay<==>bigbux"=>"0.5153699979490465", "Alphabay<==>bigbux<=0=>Alpaca<==>eliterx"=>"0.5339173051615366", "Silk Road 2<==>spartanlabsoz<=0=>Nucleus<==>ThreeKings"=>"0.451338955539975", "Nucleus<==>ThreeKings<=0=>Agora<==>bodyinaction"=>"0.445323242370066", "Pandora<==>BodyAid<=0=>Nucleus<==>ThreeKings"=>"0.37095055484657075"}
+{"Agora<==>thecheekygirls<=0=>Abraxas<==>thecheekygirls"=>"0.6137430737624222"}
+{"Silk Road 2<==>TeamZissou<=0=>Agora<==>TeamZissou"=>"0.611373484361785"}
 {"Middle Earth<==>color<=0=>Agora<==>OnePiece"=>"0.6097893772649836"}
 {"Nucleus<==>dutchquality_1256<=0=>Andromeda<==>dutchquality1256"=>"0.6092669094551932"}
 {"Nucleus<==>stepmoon<=0=>Evolution<==>kokos"=>"0.6065075337579877"}
 {"Nucleus<==>NowOrNever2015<=0=>Agora<==>NowOrNever2015"=>"0.6053400510837759"}
-{"Nucleus<==>colombiaconnection<=0=>Andromeda<==>colombiaconnection"=>"0.6048676907888075", "Andromeda<==>colombiaconnection<=0=>Alphabay<==>katalyst"=>"0.414987934483656", "Evolution<==>tornado888<=0=>Alphabay<==>AddamsFamily"=>"0.39256872466606324"}
+{"Nucleus<==>colombiaconnection<=0=>Andromeda<==>colombiaconnection"=>"0.6048676907888075", "Andromeda<==>colombiaconnection<=0=>Alphabay<==>katalyst"=>"0.414987934483656"}
 {"Agora<==>aussiehitsfromthebong<=0=>Abraxas<==>aussiehits"=>"0.60266409340537", "Silk Road 2<==>aussiecheech<=0=>Agora<==>aussiehitsfromthebong"=>"0.5807638918332089"}
-{"Alphabay<==>colombiaconnection<=0=>Agora<==>colombiaconnection"=>"0.6016272877436968", "Evolution<==>ID4FR<=0=>Alphabay<==>AddamsFamily"=>"0.3906795784506453"}
+{"Alphabay<==>colombiaconnection<=0=>Agora<==>colombiaconnection"=>"0.6016272877436968"}
 {"Evolution<==>ferrisbuellerEVO<=0=>Abraxas<==>ferrisbueller"=>"0.6002054668042173"}
 {"Onion Market<==>bcbudking<=0=>Nucleus<==>BCBUDKING"=>"0.5965872114543725", "Nucleus<==>BCBUDKING<=0=>Agora<==>BCBUDKING"=>"0.3860110955517793"}
 {"Onion Market<==>hanspoel<=0=>Cloud Nine<==>hanfhenk"=>"0.5962038321835564"}
-{"Cloud Nine<==>fingerztdot<=0=>Alpaca<==>Fingerz"=>"0.5953213357024681", "Evolution<==>party_supply<=0=>Alpaca<==>DarkVendor"=>"0.4115551896411391"}
+{"Cloud Nine<==>fingerztdot<=0=>Alpaca<==>Fingerz"=>"0.5953213357024681"}
 {"Evolution<==>FRCONNECTION<=0=>Alphabay<==>FRENCHCONNECTION"=>"0.590501775954573"}
 {"Pandora<==>InfinityBeyond<=0=>Evolution<==>InfinityBeyond"=>"0.586504135333294"}
-{"Nucleus<==>calikush<=0=>Agora<==>cali_kush"=>"0.5859379911899187", "Nucleus<==>calikush<=0=>Alphabay<==>cali_kush"=>"0.4543348671323531", "Evolution<==>RonSwanson<=0=>Alphabay<==>eztest"=>"0.35645060926966854"}
+{"Nucleus<==>calikush<=0=>Agora<==>cali_kush"=>"0.5859379911899187", "Nucleus<==>calikush<=0=>Alphabay<==>cali_kush"=>"0.4543348671323531"}
 {"Evolution<==>AmicoFriz<=0=>Alpaca<==>MetzgerDD"=>"0.5850152264874133", "The Pirate Market<==>Torrel<=0=>Alpaca<==>MetzgerDD"=>"0.39927821084160026", "Evolution<==>AmicoFriz<=0=>Cloud Nine<==>YourSpider"=>"0.39927094809322305"}
 {"Middle Earth<==>bisto<=0=>Evolution<==>Shopbisto"=>"0.5820178601965755"}
 {"The Pirate Market<==>RogerTheAlien<=0=>Evolution<==>RogerTheAlien"=>"0.5812944412506372"}
 {"Silk Road 2<==>bcpltd<=0=>Agora<==>godofallSR"=>"0.5770102248489886", "Evolution<==>mrfrench<=0=>Agora<==>godofallSR"=>"0.43267341227562045"}
-{"Cloud Nine<==>highvibe<=0=>Alpaca<==>highvibe"=>"0.5763634812905954", "Evolution<==>Boddah<=0=>Alpaca<==>MetzgerDD"=>"0.5185045878477905"}
+{"Cloud Nine<==>highvibe<=0=>Alpaca<==>highvibe"=>"0.5763634812905954"}
 {"Nucleus<==>BudsNRoses<=0=>Middle Earth<==>budsnroses"=>"0.5750976839536883"}
 {"Nucleus<==>MollyDownUnder<=0=>Evolution<==>MollyDownUnder"=>"0.5737607242555064"}
 {"Silk Road 2<==>MadEye<=0=>Agora<==>MadEye"=>"0.5726107979059628", "Silk Road 2<==>MadEye<=0=>Evolution<==>stefandl"=>"0.36564184976560826"}
 {"Nucleus<==>MissMolly<=0=>Agora<==>MissMollyNL"=>"0.571987267940468"}
+{"Onion Market<==>tambourinemans<=0=>Evolution<==>chemicals"=>"0.5690841347292253", "Pandora<==>tomorrowman<=0=>Onion Market<==>tambourinemans"=>"0.40335617374534943"}
+{"Evolution<==>pocketscale<=0=>Cloud Nine<==>pocketscale"=>"0.5682990822374484", "Silkkitie<==>klosterbier<=0=>Evolution<==>pocketscale"=>"0.3526289971726703", "Silkkitie<==>klosterbier<=0=>Pandora<==>justincase"=>"0.3741471889103584"}
 {"Silk Road 2<==>PaulReubens<=0=>Nucleus<==>PaulReubensPhone"=>"0.5673298510232205"}
 {"Nucleus<==>Crazy-Eights<=0=>Abraxas<==>Crazy-Eights"=>"0.5593572043251673", "Cloud Nine<==>Crazy-Eights<=0=>Abraxas<==>Crazy-Eights"=>"0.4117958725291598"}
 {"Silk Road 2<==>Shine Cartel<=0=>Pandora<==>ShineCartel"=>"0.5580667638135585"}
-{"Cloud Nine<==>Federal Bureau of Investigatio<=0=>Alphabay<==>89418645"=>"0.5557421163309759", "Cloud Nine<==>Federal Bureau of Investigatio<=0=>Alpaca<==>MrAccount"=>"0.4680914283006946", "Evolution<==>DexterMorganCVV<=0=>Alpaca<==>Marlodz"=>"0.3941556768862501"}
-{"Nucleus<==>frombie48<=0=>Alphabay<==>frombie48"=>"0.5552793345480322", "Evolution<==>CandyMan72<=0=>Alphabay<==>89418645"=>"0.35927142365151066"}
+{"Middle Earth<==>merckkgaa<=0=>Abraxas<==>DutchVendor"=>"0.5569470829397549", "Nucleus<==>CocoMarley<=0=>Middle Earth<==>merckkgaa"=>"0.4111820189831472"}
+{"Cloud Nine<==>Federal Bureau of Investigatio<=0=>Alphabay<==>89418645"=>"0.5557421163309759", "Cloud Nine<==>Federal Bureau of Investigatio<=0=>Alpaca<==>MrAccount"=>"0.4680914283006946", "Evolution<==>CandyMan72<=0=>Alphabay<==>89418645"=>"0.35927142365151066"}
+{"Nucleus<==>frombie48<=0=>Alphabay<==>frombie48"=>"0.5552793345480322"}
 {"Middle Earth<==>spacejam023<=0=>Evolution<==>PharmaCarma"=>"0.5549476008767877", "Middle Earth<==>spacejam023<=0=>Agora<==>Big_Pharma"=>"0.44559598140135215", "Silk Road 2<==>Big Pharma<=0=>Agora<==>Big_Pharma"=>"0.5192916896321026"}
-{"Nucleus<==>DreamingTree<=0=>Alphabay<==>DreamingTree"=>"0.5545995876688086", "Evolution<==>Cypher<=0=>Alphabay<==>dutchsnowflake"=>"0.35250340636728345"}
+{"Nucleus<==>DreamingTree<=0=>Alphabay<==>DreamingTree"=>"0.5545995876688086"}
+{"The Pirate Market<==>Silkk<=0=>Evolution<==>EvolTwin"=>"0.5528310146714658", "Evolution<==>EvolTwin<=0=>Abraxas<==>dopamine"=>"0.37105044603445086", "Middle Earth<==>dopamine<=0=>Evolution<==>EvolTwin"=>"0.35072504544271976", "Silk Road 2<==>allisone<=0=>Middle Earth<==>dopamine"=>"0.4199464053299513", "Silk Road 2<==>allisone<=0=>Nucleus<==>Luvly"=>"0.35363701755449467"}
 {"Evolution<==>dbaggins<=0=>Alphabay<==>eudvdeu"=>"0.5527711043076209"}
 {"The Pirate Market<==>DiazNL<=0=>Evolution<==>DiazNL"=>"0.5517650063423499"}
 {"Silk Road 2<==>Pharmington Rex<=0=>Evolution<==>Pharmington-Rex"=>"0.5500675553967584"}
@@ -196,20 +210,21 @@
 {"Silk Road 2<==>TheLittleGuys<=0=>Agora<==>TheLittleGuys"=>"0.5478478206401102"}
 {"Onion Market<==>harrytuttle<=0=>Agora<==>HarryTuttle"=>"0.5477365746436"}
 {"Silk Road 2<==>sweettganjababe<=0=>Agora<==>sweettganjababe"=>"0.5477087987440326"}
-{"Cloud Nine<==>Warluk75<=0=>Agora<==>BlackwaterGp"=>"0.5445291075089744", "Cloud Nine<==>Federal Bureau of Investigatio<=0=>Alphabay<==>savemore233"=>"0.4303879282844316"}
+{"Cloud Nine<==>Warluk75<=0=>Agora<==>BlackwaterGp"=>"0.5445291075089744"}
 {"Silk Road 2<==>Peter Pan32<=0=>Agora<==>PeterPan3"=>"0.543779855683048"}
 {"Nucleus<==>MrN1ce<=0=>Evolution<==>MrN1ce"=>"0.5406235408150899"}
 {"Silk Road 2<==>Silky Smooth<=0=>Agora<==>SilkySm00th"=>"0.5405581944477665"}
 {"Evolution<==>MrPostmanPot<=0=>Agora<==>Postman-Pot"=>"0.5382319618499105"}
-{"Middle Earth<==>benzoblotters<=0=>Evolution<==>BenzoBlotters"=>"0.5374733522764922", "Evolution<==>BenzoBlotters<=0=>Alphabay<==>BenzoBlotters"=>"0.3733529784300808", "Alphabay<==>savemore233<=0=>Agora<==>Underground_God"=>"0.37840507891795233"}
+{"Middle Earth<==>benzoblotters<=0=>Evolution<==>BenzoBlotters"=>"0.5374733522764922", "Evolution<==>BenzoBlotters<=0=>Alphabay<==>BenzoBlotters"=>"0.3733529784300808"}
 {"Nucleus<==>NoStressNucleus<=0=>Agora<==>Nostress"=>"0.5358880637118383", "Onion Market<==>nostress<=0=>Agora<==>Nostress"=>"0.45998285025029795"}
 {"Nucleus<==>RICH_KUKLINSKI<=0=>Agora<==>RICHARD_KUKLINSKI"=>"0.5357769177669711"}
+{"Nucleus<==>Spinifex<=0=>Agora<==>Spinifex"=>"0.5346631202599016", "Silk Road 2<==>swissweed12<=0=>Nucleus<==>Spinifex"=>"0.402103571430918", "Silk Road 2<==>swissweed12<=0=>Abraxas<==>starbuy"=>"0.43744509729995334"}
 {"Silk Road 2<==>DubeLover69<=0=>Agora<==>MedBrokers"=>"0.5342601277622819"}
 {"Pandora<==>hesh<=0=>Onion Market<==>hesh"=>"0.5327649792328278"}
 {"Agora<==>james2000white<=0=>Abraxas<==>james2000white"=>"0.532027404559081"}
 {"Middle Earth<==>alisdrugstore<=0=>Agora<==>alisdrugstore"=>"0.5252708157709667"}
 {"Middle Earth<==>leafly<=0=>Evolution<==>Leafly"=>"0.5228607934703393"}
-{"Evolution<==>ChemNerd<=0=>Cloud Nine<==>kemykems"=>"0.521534716897505", "Cloud Nine<==>Warluk75<=0=>Agora<==>updownandallaround"=>"0.48869795433663676"}
+{"Evolution<==>ChemNerd<=0=>Cloud Nine<==>kemykems"=>"0.521534716897505"}
 {"Agora<==>natasmadas<=0=>Abraxas<==>DOC999"=>"0.5209923385845332", "Alphabay<==>Heizenberg<=0=>Agora<==>natasmadas"=>"0.4921620170094081", "Cloud Nine<==>chitownsubs<=0=>Agora<==>natasmadas"=>"0.43477583523340946"}
 {"Nucleus<==>guccis-gifts<=0=>Agora<==>GuccisGifts"=>"0.520245121425153"}
 {"Silk Road 2<==>luckylucianno<=0=>Evolution<==>luckyluciannomd"=>"0.5159029909580602"}
@@ -218,58 +233,65 @@
 {"Pandora<==>MEGAPHARMA<=0=>Agora<==>MEGA_PHARMA"=>"0.5109553448183775"}
 {"Evolution<==>Platinum<=0=>Alphabay<==>Platinum"=>"0.5098740542643563"}
 {"Silk Road 2<==>sniffpod<=0=>Agora<==>sniffpod"=>"0.509861810769752", "Alphabay<==>RitalinGirl<=0=>Agora<==>sniffpod"=>"0.3623435733546022", "Nucleus<==>PharmHau5<=0=>Alphabay<==>RitalinGirl"=>"0.4921986146218668"}
-{"Evolution<==>darkcomet<=0=>Agora<==>rubben"=>"0.508304796973924", "Evolution<==>Platinum<=0=>Alphabay<==>skyworth"=>"0.4517298502227364"}
+{"Evolution<==>johnspaypalstore<=0=>Alphabay<==>gandalf"=>"0.5083271684288868", "Silk Road 2<==>cocacola007<=0=>Evolution<==>johnspaypalstore"=>"0.36667628731201957", "Nucleus<==>mafiadomino<=0=>Evolution<==>johnspaypalstore"=>"0.6278348239639516", "Silk Road 2<==>cocacola007<=0=>Abraxas<==>PayPalTransfer"=>"0.37792714258342675", "Silk Road 2<==>cocacola007<=0=>Cloud Nine<==>passman"=>"0.3703424377915321", "Cloud Nine<==>passman<=0=>Agora<==>fake"=>"0.386300545967712"}
+{"Evolution<==>darkcomet<=0=>Agora<==>rubben"=>"0.508304796973924"}
 {"Nucleus<==>Yaoming<=0=>Evolution<==>PIMP"=>"0.5053322686453747", "Evolution<==>PIMP<=0=>Agora<==>Pharmasuiticals"=>"0.3565987110602039"}
 {"Outlaw<==>blurredlines<=0=>Alpaca<==>BlurredLines"=>"0.5049906935696983"}
 {"Alphabay<==>sexyhomer<=0=>Abraxas<==>sexyhomer"=>"0.5019891728322624"}
-{"Nucleus<==>Oxyking<=0=>Agora<==>Roxtar"=>"0.5011721723111899", "Nucleus<==>Yaoming<=0=>Evolution<==>Yaoming-uk"=>"0.4635268642096903"}
+{"Nucleus<==>Oxyking<=0=>Agora<==>Roxtar"=>"0.5011721723111899"}
 {"Middle Earth<==>marleysmainman<=0=>Alphabay<==>RisingTeam"=>"0.5010122628005927"}
 {"Evolution<==>canadianforger<=0=>Agora<==>canadianforger"=>"0.4999367898156163"}
 {"Nucleus<==>embus<=0=>Agora<==>embus"=>"0.49817981192178395"}
-{"Evolution<==>RefundGuy<=0=>Alphabay<==>kinger"=>"0.49581215993357414", "Middle Earth<==>elherbolario<=0=>Alphabay<==>RisingTeam"=>"0.4070134424091845", "Evolution<==>RefundGuy<=0=>Cloud Nine<==>Microsoft"=>"0.3847658673384595", "Cloud Nine<==>Warluk75<=0=>Agora<==>DEXTERS_LABORATORY"=>"0.5261772015471833"}
-{"Silkkitie<==>BauerBoi<=0=>Alphabay<==>BauerBoi"=>"0.49504600878294347", "Evolution<==>lightsmoker<=0=>Alphabay<==>kinger"=>"0.406000984737198"}
+{"Evolution<==>RefundGuy<=0=>Alphabay<==>kinger"=>"0.49581215993357414", "Evolution<==>RefundGuy<=0=>Cloud Nine<==>Microsoft"=>"0.3847658673384595"}
+{"Silkkitie<==>BauerBoi<=0=>Alphabay<==>BauerBoi"=>"0.49504600878294347"}
 {"Nucleus<==>lostheaven007<=0=>Evolution<==>krimo"=>"0.494560521169163"}
-{"Middle Earth<==>blueviking<=0=>Evolution<==>BlueViking"=>"0.4924367009850276", "Middle Earth<==>marleysmainman<=0=>Alphabay<==>LiberianGirl"=>"0.41076254348305896"}
+{"Middle Earth<==>blueviking<=0=>Evolution<==>BlueViking"=>"0.4924367009850276"}
 {"Andromeda<==>alesklar<=0=>Agora<==>AlesKlar"=>"0.491951181659483"}
-{"Nucleus<==>RealChipChipperson<=0=>Alphabay<==>nwconcentrates"=>"0.4911417196942595", "Evolution<==>gogoguides<=0=>Alphabay<==>kinger"=>"0.3940971631661711", "Alphabay<==>nwconcentrates<=0=>Agora<==>Deliverator"=>"0.37839319566156937"}
+{"Nucleus<==>RealChipChipperson<=0=>Alphabay<==>nwconcentrates"=>"0.4911417196942595", "Alphabay<==>nwconcentrates<=0=>Agora<==>Deliverator"=>"0.37839319566156937", "Nucleus<==>RealChipChipperson<=0=>Evolution<==>psychotropix"=>"0.36050042040157027"}
 {"Evolution<==>quickfix<=0=>Agora<==>quickfix"=>"0.4909465984826018", "Alphabay<==>MindWeather<=0=>Agora<==>quickfix"=>"0.37881990297260837"}
-{"Silk Road 2<==>United Distributions<=0=>Abraxas<==>TravoltasCrew"=>"0.4874927659761294", "Silk Road 2<==>United Distributions<=0=>Alphabay<==>Dollarama"=>"0.44498077475000847", "Evolution<==>hawaiizfynest<=0=>Alphabay<==>kinger"=>"0.36662716188945094"}
+{"Nucleus<==>Bugz<=0=>Evolution<==>space"=>"0.4899834779651616", "Onion Market<==>g1s3x1r0<=0=>Evolution<==>space"=>"0.41482343658742377", "Onion Market<==>g1s3x1r0<=0=>Alphabay<==>AddamsFamily"=>"0.4022264578567889", "Alphabay<==>AddamsFamily<=0=>Alpaca<==>projeccao"=>"0.4136097193428585", "Alpaca<==>projeccao<=0=>Agora<==>lamachine"=>"0.3669318470480416"}
+{"Alphabay<==>MedizinMann<=0=>Agora<==>MedizinMann"=>"0.48826552320880934", "Evolution<==>MedizinMann<=0=>Alphabay<==>MedizinMann"=>"0.3855477014128826", "Evolution<==>MedizinMann<=0=>Abraxas<==>GermanOpioids"=>"0.4233805143729853", "Nucleus<==>PremiumProdukte<=0=>Abraxas<==>GermanOpioids"=>"0.446495096337054", "Outlaw<==>PremiumProdukte<=0=>Evolution<==>MedizinMann"=>"0.3915415009298071"}
+{"Onion Market<==>kkroids1<=0=>Alpaca<==>Steacensen"=>"0.4877355813021371", "Nucleus<==>Overdos3d<=0=>Alpaca<==>Steacensen"=>"0.4812424857425423", "Nucleus<==>Overdos3d<=0=>Abraxas<==>Overdos3d"=>"0.48638974911618366", "Agora<==>Overdos3d<=0=>Abraxas<==>Overdos3d"=>"0.7451701431610459", "Alphabay<==>Progear<=0=>Alpaca<==>Steacensen"=>"0.4359042579453492", "Evolution<==>Overdos3d<=0=>Abraxas<==>Overdos3d"=>"0.37112989080226777", "Silk Road 2<==>Overdos3d<=0=>Evolution<==>Overdos3d"=>"0.8978752861938821", "Pandora<==>BodyAid<=0=>Evolution<==>Overdos3d"=>"0.4555969394207756", "Middle Earth<==>spartanlabsoz<=0=>Evolution<==>Overdos3d"=>"0.41591490454693325"}
+{"Silk Road 2<==>United Distributions<=0=>Abraxas<==>TravoltasCrew"=>"0.4874927659761294", "Silk Road 2<==>United Distributions<=0=>Alphabay<==>Dollarama"=>"0.44498077475000847"}
+{"Evolution<==>theaddyman<=0=>Cloud Nine<==>B3kZo"=>"0.4849590565085105", "Evolution<==>theaddyman<=0=>Abraxas<==>blackhand"=>"0.4840703396355976", "Evolution<==>theaddyman<=0=>Andromeda<==>blackhand"=>"0.4703984407213024", "Silk Road 2<==>echo<=0=>Abraxas<==>blackhand"=>"0.3869358724920668", "Andromeda<==>blackhand<=0=>Agora<==>Optumis"=>"0.3832858223784669", "Nucleus<==>bluerave<=0=>Andromeda<==>blackhand"=>"0.3657500548488221", "Alphabay<==>AGENT3500ZERO<=0=>Agora<==>Optumis"=>"0.35733931756199705"}
 {"Nucleus<==>CasaBlanca<=0=>Abraxas<==>HollandDutch"=>"0.4844136628216855", "Silk Road 2<==>Holland Dutch<=0=>Abraxas<==>HollandDutch"=>"0.3688406042744807", "Silk Road 2<==>Holland Dutch<=0=>Evolution<==>StoneIsland"=>"0.3634014665989202", "Evolution<==>StoneIsland<=0=>Andromeda<==>Perron"=>"0.35140233614620103"}
-{"Evolution<==>dutchdiehard<=0=>Alphabay<==>blackmarket"=>"0.484262422069666", "Evolution<==>StoneIsland<=0=>Abraxas<==>Dutchmail"=>"0.36339114802155187"}
+{"Evolution<==>dutchdiehard<=0=>Alphabay<==>blackmarket"=>"0.484262422069666"}
 {"Middle Earth<==>deepmeds<=0=>Alpaca<==>DeepMeds"=>"0.48267381147745164", "Evolution<==>RinseFM<=0=>Alpaca<==>DeepMeds"=>"0.43507154225553285", "Middle Earth<==>deepmeds<=0=>Agora<==>Pharma-deal"=>"0.4097958738698652"}
-{"Nucleus<==>NXTLEVEL<=0=>Alphabay<==>NXTLEVEL"=>"0.47814452016093306", "Nucleus<==>RealChipChipperson<=0=>Evolution<==>psychotropix"=>"0.36050042040157027"}
+{"Nucleus<==>NXTLEVEL<=0=>Alphabay<==>NXTLEVEL"=>"0.47814452016093306"}
 {"Nucleus<==>[CDARWIN]<=0=>Agora<==>CDARWIN"=>"0.4772018341304398"}
 {"Alpaca<==>LionwareTrading<=0=>Agora<==>LionwareTradingCo"=>"0.47648699678965567"}
 {"Middle Earth<==>mrcart3rr<=0=>Evolution<==>suren555"=>"0.4728042415545719", "Evolution<==>suren555<=0=>Alphabay<==>Ozzyz"=>"0.3737964679586343", "Nucleus<==>DebbyDoo<=0=>Alphabay<==>Ozzyz"=>"0.36229445819115214"}
-{"Cloud Nine<==>Checkov<=0=>1776<==>atheist666"=>"0.4725275144612529", "Cloud Nine<==>Warluk75<=0=>Agora<==>OZMarket"=>"0.39887340207770094"}
+{"Cloud Nine<==>Checkov<=0=>1776<==>atheist666"=>"0.4725275144612529"}
 {"Nucleus<==>CokeDirectUK<=0=>Evolution<==>CDUK"=>"0.47244410811744264"}
 {"Evolution<==>funkyhomosapiens<=0=>Cloud Nine<==>funkyhomosapien"=>"0.47134615247979594"}
 {"Onion Market<==>theresistance<=0=>Evolution<==>addking"=>"0.47086970795981764"}
 {"Evolution<==>scarlett1<=0=>Agora<==>easy2go"=>"0.4680913233657808"}
 {"Evolution<==>ReadySetGo<=0=>Agora<==>RagnarLodbrok"=>"0.46426541052097625"}
 {"Evolution<==>jnenfrancis<=0=>Alphabay<==>jnenfrancis"=>"0.461854574608076"}
+{"Middle Earth<==>speedy-gonzales<=0=>Evolution<==>fromnetherlands"=>"0.45529453790945423", "Middle Earth<==>speedy-gonzales<=0=>Alphabay<==>chosek"=>"0.40188844215337355", "Evolution<==>fromnetherlands<=0=>Alpaca<==>DarkVendor"=>"0.5403258211297165", "Andromeda<==>DarkVendor<=0=>Alpaca<==>DarkVendor"=>"0.9071284238047215", "The Pirate Market<==>DarkVendor<=0=>Evolution<==>fromnetherlands"=>"0.48674739612168577"}
 {"Nucleus<==>ganjamanexpress<=0=>Evolution<==>AlfaOmega"=>"0.4552481338399152", "Silk Road 2<==>kvalitetsbevisst<=0=>Nucleus<==>ganjamanexpress"=>"0.4031438708295224"}
 {"Evolution<==>Mindwar<=0=>Alphabay<==>Dunderhonung"=>"0.45429400735867337", "Nucleus<==>Dunderhonung<=0=>Alphabay<==>Dunderhonung"=>"0.43949818003570545", "Pandora<==>DRUGS<=0=>Evolution<==>Mindwar"=>"0.41221072358559474", "Pandora<==>DRUGS<=0=>Agora<==>Luckys"=>"0.3820037531565789"}
-{"Nucleus<==>HappyMonk<=0=>Alphabay<==>Happymonk"=>"0.4531849097324774", "Nucleus<==>ganjamanexpress<=0=>Evolution<==>Rus-Kongen"=>"0.4467999268261994"}
-{"Middle Earth<==>herbalremedy<=0=>Evolution<==>HerbalRemedy"=>"0.45310337713087684", "Nucleus<==>BlazingButler<=0=>Evolution<==>Mindwar"=>"0.37313163166485336"}
+{"Nucleus<==>HappyMonk<=0=>Alphabay<==>Happymonk"=>"0.4531849097324774"}
+{"Middle Earth<==>herbalremedy<=0=>Evolution<==>HerbalRemedy"=>"0.45310337713087684"}
 {"Evolution<==>sAv3-0n<=0=>Alphabay<==>Sc13nC3"=>"0.44892538489144773"}
 {"Evolution<==>CousinMolly<=0=>Agora<==>CousinMolly"=>"0.44842326696491647", "Silk Road 2<==>cousinmolly<=0=>Agora<==>CousinMolly"=>"0.35676513257582015"}
 {"Evolution<==>ritex<=0=>Agora<==>ritex"=>"0.44736968964153034"}
 {"Evolution<==>chaoticneutral<=0=>Cloud Nine<==>GunGrave"=>"0.4458234927922068"}
 {"Nucleus<==>CaliforniaGreenCross<=0=>Cloud Nine<==>USdank"=>"0.4454094792522838"}
 {"Evolution<==>Soviet<=0=>Alphabay<==>Xesoze"=>"0.44536584517880934"}
-{"Evolution<==>The-Krakon<=0=>Agora<==>Cop"=>"0.44477859991103313", "Evolution<==>Soviet<=0=>Alphabay<==>MissyTravels"=>"0.35877212440414696"}
+{"Evolution<==>The-Krakon<=0=>Agora<==>Cop"=>"0.44477859991103313"}
 {"Nucleus<==>WeedConnect<=0=>Evolution<==>WeedConnect"=>"0.4394434098017918"}
 {"Nucleus<==>KeepOnRolling<=0=>Middle Earth<==>domesticmolly"=>"0.4383565223465375"}
-{"Silk Road 2<==>GandalfsGarden<=0=>Agora<==>gandalfsgarden"=>"0.43780419490234845", "Evolution<==>RagnarLodbrok<=0=>Agora<==>RagnarLodbrok"=>"0.4094644385598651"}
+{"Silk Road 2<==>GandalfsGarden<=0=>Agora<==>gandalfsgarden"=>"0.43780419490234845"}
 {"Pandora<==>SaltnPepper<=0=>Alphabay<==>SaltnPepper"=>"0.43769758123989283"}
 {"Silk Road 2<==>DrDouglas<=0=>Middle Earth<==>medsguru"=>"0.4374041303535041"}
 {"Nucleus<==>topwatch<=0=>Evolution<==>RepAAA"=>"0.4371606035288669"}
+{"Nucleus<==>sheguey<=0=>Alphabay<==>freshtea"=>"0.4370435279903415", "Onion Market<==>g1s3x1r0<=0=>Nucleus<==>sheguey"=>"0.427330889878469", "Nucleus<==>sheguey<=0=>Evolution<==>Jungleman1"=>"0.4372338887825446", "Evolution<==>Jungleman1<=0=>Agora<==>lamachine"=>"0.4097582955610664", "Onion Market<==>g1s3x1r0<=0=>Alpaca<==>projeccao"=>"0.37922524584043815"}
 {"Middle Earth<==>killerqp<=0=>Evolution<==>710SuperStore"=>"0.43655740184259734"}
 {"Nucleus<==>MrC<=0=>Alphabay<==>TrivialEngineer"=>"0.4331610210167776"}
-{"Nucleus<==>HiSpeedNL<=0=>Cloud Nine<==>Rainman322"=>"0.43290743110868607", "Nucleus<==>MrC<=0=>Alphabay<==>Zed™"=>"0.38134014442428305", "Evolution<==>pureluck<=0=>Alphabay<==>Zed™"=>"0.3635612536191973"}
-{"Silk Road 2<==>cannabiscanada<=0=>Evolution<==>budman"=>"0.4308621848989259", "Evolution<==>pureluck<=0=>Alphabay<==>skytravel"=>"0.4105789165548751", "Nucleus<==>br3aker<=0=>Alphabay<==>skytravel"=>"0.39723546352907807", "Silk Road 2<==>cannabiscanada<=0=>Andromeda<==>SILENTSUPPLY"=>"0.3635853463476216"}
-{"Silk Road 2<==>Christian Bale<=0=>Evolution<==>theDam"=>"0.43073821955172525", "Evolution<==>pureluck<=0=>Alphabay<==>netfree"=>"0.40771510087355156"}
+{"Nucleus<==>HiSpeedNL<=0=>Cloud Nine<==>Rainman322"=>"0.43290743110868607"}
+{"Silk Road 2<==>cannabiscanada<=0=>Evolution<==>budman"=>"0.4308621848989259", "Silk Road 2<==>cannabiscanada<=0=>Andromeda<==>SILENTSUPPLY"=>"0.3635853463476216"}
+{"Silk Road 2<==>Christian Bale<=0=>Evolution<==>theDam"=>"0.43073821955172525"}
 {"Middle Earth<==>caslava<=0=>Agora<==>Caslava"=>"0.4306785867936375"}
 {"Silk Road 2<==>HoneyBee<=0=>Agora<==>VanillaSky"=>"0.4295457569197297"}
 {"Cloud Nine<==>batcountry<=0=>Agora<==>stardust39"=>"0.4266508079251072"}
@@ -278,23 +300,29 @@
 {"Evolution<==>187ACAB<=0=>Agora<==>187ACAB"=>"0.42169143447697943"}
 {"Nucleus<==>cOCoCoCo<=0=>Alphabay<==>Cocainecowboy"=>"0.4207290294514957"}
 {"Evolution<==>Sally_me<=0=>Cloud Nine<==>GratefulBird"=>"0.4204500815461679"}
-{"Silk Road 2<==>Kings Habit<=0=>Agora<==>KingsHabit"=>"0.41979864494517594", "Evolution<==>CapeCrusader<=0=>Agora<==>Atmel"=>"0.3565323034091605"}
-{"Nucleus<==>PharmacyKing<=0=>Agora<==>SafeShop"=>"0.41893115886177484", "Nucleus<==>MrC<=0=>Alphabay<==>thewhiterabbit1"=>"0.35248034304088155", "Evolution<==>vobinator<=0=>Alphabay<==>thewhiterabbit1"=>"0.3717989104883454"}
+{"Silk Road 2<==>Kings Habit<=0=>Agora<==>KingsHabit"=>"0.41979864494517594"}
+{"Nucleus<==>PharmacyKing<=0=>Agora<==>SafeShop"=>"0.41893115886177484"}
 {"Evolution<==>Fast-Bit<=0=>Agora<==>FastBit"=>"0.4183571397470867"}
 {"Evolution<==>BooMstick<=0=>Alphabay<==>Magnitsky"=>"0.4159960322911197"}
-{"Middle Earth<==>demoniak<=0=>Evolution<==>paris_hilton"=>"0.4158045991777863", "Evolution<==>BooMstick<=0=>Alphabay<==>DataKing"=>"0.35985093882452573"}
+{"Middle Earth<==>demoniak<=0=>Evolution<==>paris_hilton"=>"0.4158045991777863"}
 {"Silk Road 2<==>HappyEndingAU<=0=>Agora<==>HappyEndingAu"=>"0.4157697863594062"}
+{"Cloud Nine<==>white label<=0=>Agora<==>Chems_Usa"=>"0.41306237567010046", "Nucleus<==>PharmaPhil<=0=>Agora<==>Chems_Usa"=>"0.3807693351321119", "Nucleus<==>PharmaPhil<=0=>Alphabay<==>th3com3dian"=>"0.41622272941571", "Evolution<==>Fentastic<=0=>Cloud Nine<==>white label"=>"0.35530666997195204", "Evolution<==>Fentastic<=0=>Abraxas<==>Dr_Seuss"=>"0.3954922746635181"}
 {"Evolution<==>TrickleDownInc<=0=>Cloud Nine<==>TrickleDownInc"=>"0.41213389950162976"}
 {"Evolution<==>lablogistics<=0=>Cloud Nine<==>YourFriendMolly"=>"0.4118864922555422", "Nucleus<==>maxhavelaar<=0=>Evolution<==>lablogistics"=>"0.35780095973709936"}
+{"Evolution<==>CipherCracks<=0=>Agora<==>CipherCracks"=>"0.41167311553616126"}
 {"Pandora<==>MODInc<=0=>Onion Market<==>modinc"=>"0.41074292334412105"}
+{"Evolution<==>pureluck<=0=>Alphabay<==>skytravel"=>"0.4105789165548751", "Nucleus<==>br3aker<=0=>Alphabay<==>skytravel"=>"0.39723546352907807"}
 {"Cloud Nine<==>Thedrugman<=0=>Agora<==>NelsonMuntz"=>"0.4102911167254335"}
 {"Middle Earth<==>fredthebaker<=0=>Agora<==>fredthebaker"=>"0.40930552462589687"}
 {"Nucleus<==>DoctorFreedom<=0=>Agora<==>DoctorFreedom"=>"0.40870697701308595"}
+{"Evolution<==>zypper<=0=>Alphabay<==>dutchsnowflake"=>"0.40794874176702367", "Nucleus<==>mafiadomino<=0=>Alphabay<==>dutchsnowflake"=>"0.37823075356871416"}
 {"Evolution<==>UK_Rails<=0=>Alphabay<==>UK_Rails"=>"0.4077828762765731"}
+{"Evolution<==>Gekko<=0=>Alphabay<==>black2white"=>"0.4073214070952743"}
 {"Evolution<==>oldskool<=0=>1776<==>ACAB23"=>"0.40431005401724573"}
 {"Onion Market<==>goingpostal<=0=>Evolution<==>Praetorian-MDMA"=>"0.4031246359396565"}
 {"Cloud Nine<==>Satire<=0=>Alphabay<==>Malpha"=>"0.40303313570169863"}
 {"Nucleus<==>sinmed<=0=>Alphabay<==>sinmed"=>"0.40103011925515564"}
+{"Middle Earth<==>meds2buy<=0=>Evolution<==>idealpills"=>"0.3983389772326935", "Nucleus<==>kobrivoje<=0=>Evolution<==>idealpills"=>"0.365729634467328", "Onion Market<==>kobrivoje<=0=>Nucleus<==>kobrivoje"=>"0.3638917557345821"}
 {"Nucleus<==>y-s-id-v<=0=>Cloud Nine<==>FakeID"=>"0.39794543726145337", "Evolution<==>identity<=0=>Cloud Nine<==>FakeID"=>"0.38364447022215864"}
 {"Pandora<==>JipTraVoltaHT<=0=>Agora<==>HumanTraffic-Jip"=>"0.3959201942562516"}
 {"Silk Road 2<==>cowgirl33<=0=>Evolution<==>Saraleea"=>"0.3941863411991732"}
@@ -302,12 +330,17 @@
 {"Onion Market<==>lovemdma13<=0=>Evolution<==>rocky-shardy"=>"0.3938722107129939"}
 {"Evolution<==>kriminale<=0=>Agora<==>kriminalexxx"=>"0.3930268467293756"}
 {"Middle Earth<==>monetka<=0=>Agora<==>monetka"=>"0.39254921153276007"}
+{"Evolution<==>godfatherNL<=0=>Agora<==>Walt-Disney"=>"0.38918410258938196"}
 {"The Pirate Market<==>herballover<=0=>Alphabay<==>theatrox"=>"0.38775989314907194"}
+{"Evolution<==>CONvenience<=0=>Alphabay<==>Takri"=>"0.38526649514265393", "Silk Road 2<==>cocacola007<=0=>Alphabay<==>Takri"=>"0.38122524280763886", "Nucleus<==>mafiadomino<=0=>Alphabay<==>Takri"=>"0.400322952241226", "Evolution<==>CONvenience<=0=>Cloud Nine<==>passman"=>"0.3672734892473964", "Cloud Nine<==>passman<=0=>Abraxas<==>Hackyboy"=>"0.38665929768087426", "Cloud Nine<==>passman<=0=>Agora<==>smart666tiger"=>"0.353982493697183"}
 {"Cloud Nine<==>PussyMoneyWeed<=0=>Alphabay<==>1ofakindcarding"=>"0.3838831282619319", "Evolution<==>BankAccSeller<=0=>Alphabay<==>1ofakindcarding"=>"0.3819136482943747", "Nucleus<==>psyclerdude<=0=>Cloud Nine<==>PussyMoneyWeed"=>"0.3554463817763258"}
+{"Onion Market<==>nocturn4l<=0=>Agora<==>lostheaven007"=>"0.383802667415113", "Silk Road 2<==>CloudSurfer<=0=>Agora<==>lostheaven007"=>"0.355319183944537", "Alphabay<==>lostheaven<=0=>Agora<==>lostheaven007"=>"0.5768088343766345"}
 {"Silk Road 2<==>BudBoss<=0=>Onion Market<==>budboss"=>"0.3833388867101154"}
+{"Evolution<==>kimera<=0=>Alphabay<==>makikaki"=>"0.38303255777765755", "Evolution<==>kimera<=0=>Abraxas<==>PayPalTransfer"=>"0.3608770305000359", "Silk Road 2<==>cocacola007<=0=>Evolution<==>kimera"=>"0.4100948009761778", "Evolution<==>kimera<=0=>Cloud Nine<==>passman"=>"0.3988945536479234", "Evolution<==>kimera<=0=>Agora<==>fake"=>"0.35892411575606803"}
 {"Evolution<==>SkypeMan<=0=>Cloud Nine<==>skypeman"=>"0.3830023294346796"}
 {"Evolution<==>GentsChoice<=0=>Agora<==>GentsChoice"=>"0.382884213425581"}
 {"Middle Earth<==>faceparty<=0=>Agora<==>FaceParty"=>"0.3784642248043324"}
+{"Alphabay<==>savemore233<=0=>Agora<==>Underground_God"=>"0.37840507891795233"}
 {"Evolution<==>sawmanau<=0=>Alphabay<==>KCO47169"=>"0.37793881236310606"}
 {"Evolution<==>OrgaChron<=0=>Alphabay<==>MrTimothyFake"=>"0.37722880843994816"}
 {"Evolution<==>Persephone<=0=>Cloud Nine<==>canadapost"=>"0.37622682415679715"}
@@ -315,24 +348,9 @@
 {"Nucleus<==>MDMAKING<=0=>Evolution<==>1-Up"=>"0.37392205886632424"}
 {"Evolution<==>LustigPeter<=0=>Agora<==>PeterLustig"=>"0.3736147472685438"}
 {"Evolution<==>Nicolesmith<=0=>Alphabay<==>99pptry"=>"0.3720072643850748"}
+{"Evolution<==>vobinator<=0=>Alphabay<==>thewhiterabbit1"=>"0.3717989104883454", "Nucleus<==>MrC<=0=>Alphabay<==>thewhiterabbit1"=>"0.35248034304088155"}
 {"Evolution<==>angelojos<=0=>Agora<==>AngelEyes"=>"0.3712981790193316"}
 {"Evolution<==>LDN-UNDERGROUND<=0=>Agora<==>LONDON-UNDERGROUND"=>"0.37080274100616906"}
 {"Nucleus<==>CB2015<=0=>Agora<==>CB2013"=>"0.3702226535847705"}
 {"Evolution<==>The_Plug<=0=>Agora<==>Zen_Garden"=>"0.37018067188376463"}
 {"Middle Earth<==>hrmreduction<=0=>Agora<==>HarmReduction"=>"0.36854221508950663"}
-{"Cloud Nine<==>Avon<=0=>Alpaca<==>MiddleEarthSeeds"=>"0.3671110690499757"}
-{"Evolution<==>Asphyxiated<=0=>Abraxas<==>Asphyxiated"=>"0.36705429250541705"}
-{"Evolution<==>weedgirlz<=0=>Agora<==>WellnessCenter"=>"0.36484727154639607"}
-{"Nucleus<==>moominman<=0=>Evolution<==>DMT_Daffy"=>"0.3644673924206436", "Evolution<==>DMT_Daffy<=0=>Agora<==>RogerRockeT"=>"0.35467098008428527"}
-{"Cloud Nine<==>TimmytheRubJubman<=0=>Agora<==>Addies"=>"0.3633361077253262"}
-{"Evolution<==>Neophi<=0=>Alphabay<==>Neophi"=>"0.3613186380595513"}
-{"Nucleus<==>speedskoc83<=0=>Evolution<==>hqcns"=>"0.3580111495236652"}
-{"Pandora<==>persianrugsuk<=0=>Cloud Nine<==>persianrugsuk"=>"0.35617089800778173"}
-{"Cloud Nine<==>originalonyx<=0=>Alphabay<==>US-Finest"=>"0.3560012636646376"}
-{"Onion Market<==>simpletwist<=0=>Evolution<==>Iside"=>"0.3552799645197365"}
-{"Evolution<==>MrWhiteFolks<=0=>Alphabay<==>thelittlebeet"=>"0.3542325708246924"}
-{"Nucleus<==>family_medellin<=0=>Evolution<==>Family_Medellin"=>"0.35415060100564105"}
-{"Evolution<==>coinwizard<=0=>Alphabay<==>Di_Teacha"=>"0.35289155795079014"}
-{"Evolution<==>psychedelian<=0=>Agora<==>psychedelian"=>"0.3515028872216016"}
-{"Middle Earth<==>europedrugs<=0=>Evolution<==>pontneufi"=>"0.35099206097633734"}
-{"Evolution<==>tuts_n_temps<=0=>Alphabay<==>dakota"=>"0.3508727478372775"}
